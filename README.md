@@ -40,7 +40,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 ```
 
-To generate the 'brain_tumor.h5' model, run through each code block in the model.ipynb notebook. 
+To generate the 'brain_tumor.h5' model, run through each code block in the model.ipynb notebook. Certain file paths in the code will have to be changed for your local machine.
 
 **Streamlit App Running**
 
