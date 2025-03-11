@@ -11,7 +11,7 @@ IMPORTANT: In order to run the code this project, a version of python that is 3.
 
 To download the dataset for this project, navigate to the following website on kaggle: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 and download the dataset to your local machine. The file contains I would advise creating a main directory and placing the downloaded dataset file along with 
-the model.ipynb and streamlit-app.py files 
+the model.ipynb and streamlit-app.py files as well as the brain_tumor.h5 file.
 
 Finally, there are many libraries necessary to be installed on your local machine in order to run the code involved in this project
 
@@ -43,6 +43,19 @@ from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropou
 To generate the 'brain_tumor.h5' model, run through each code block in the model.ipynb notebook. Certain file paths in the code will have to be changed for your local machine.
 
 **Streamlit App Running**
+
+Before running the streamlit app, run the command
+
+```
+mkdir -p .streamlit
+touch .streamlit/secrets.toml
+```
+on your terminal in your local directory. Within the .toml file, write the following
+
+```
+OPENAI_API_KEY = 'your api key here'
+```
+and fill in the prompt with the OPENAI_API_KEY. This is NECESSARY for the streamlit app to run. If this step is not done, the code will not execute.
 
 To run the streamlit app, navigate to the directory where the streamlit-app.py file is stored and run the command
 
