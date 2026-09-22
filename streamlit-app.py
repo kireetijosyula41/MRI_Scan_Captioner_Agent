@@ -1,14 +1,19 @@
-import os
 import json
 import streamlit as st
-import tensorflow as tf
-from tensorflow.keras.models import load_model
 from PIL import Image
 import numpy as np
 import pandas as pd
+from matplotlib import colormaps
 import openai
+from torch_classifier import grad_cam_heatmap, load_classifier, predict_probabilities
 
-model = load_model('brain_tumor.h5')
+
+@st.cache_resource
+def get_model():
+    return load_classifier('brain_tumor.h5')
+
+
+model = get_model()
 
 api_key = st.secrets["OPENAI_API_KEY"]
 
@@ -23,7 +28,7 @@ def load_image(image_file):
 
 # Return the softmax distribution and its predicted class details
 def predict_image(image_array):
-    distribution = model.predict(image_array)[0]
+    distribution = predict_probabilities(model, image_array)
     predicted_class = int(np.argmax(distribution))
     labels = {0: "Glioma", 1: "Meningioma", 2: "No tumor", 3: "Pituitary"}
     predicted_label = labels[predicted_class]
@@ -40,6 +45,18 @@ def get_confidence_tier(confidence):
     if confidence >= 0.60:
         return "moderate"
     return "low"
+
+
+def create_grad_cam_overlay(image_array, original_image, class_index):
+    heatmap = grad_cam_heatmap(
+        model, image_array, class_index,
+        (original_image.height, original_image.width),
+    )
+
+    colors = (colormaps["jet"](heatmap)[..., :3] * 255).astype(np.uint8)
+    color_image = Image.fromarray(colors)
+    opacity = Image.fromarray((heatmap * 128).astype(np.uint8))
+    return Image.composite(color_image, original_image.convert("RGB"), opacity)
 
 
 client = openai.OpenAI(api_key=api_key)
@@ -81,7 +98,9 @@ uploaded_file = st.file_uploader("Upload an MRI scan", type=['png', 'jpg', 'jpeg
 
 if uploaded_file is not None:
     image = load_image(uploaded_file)
-    st.image(image, caption="Uploaded MRI scan", use_container_width=True)
+    uploaded_file.seek(0)
+    original_image = Image.open(uploaded_file).convert("RGB")
+    st.image(original_image, caption="Uploaded MRI scan", use_container_width=True)
     distribution, predicted_label, confidence, class_probabilities = predict_image(image)
     confidence_tier = get_confidence_tier(confidence)
     st.write(f"Predicted class: {predicted_label}")
@@ -93,6 +112,14 @@ if uploaded_file is not None:
         pd.DataFrame.from_dict(
             class_probabilities, orient="index", columns=["Probability"]
         )
+    )
+    overlay = create_grad_cam_overlay(
+        image, original_image, int(np.argmax(distribution))
+    )
+    st.image(overlay, caption=f"Grad-CAM for {predicted_label}", use_container_width=True)
+    st.caption(
+        "Grad-CAM is a model-attention visualization, not tumor segmentation. "
+        "Highlighted regions show what influenced this prediction."
     )
     prediction = {
         "predicted_label": predicted_label,

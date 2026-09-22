@@ -1,46 +1,24 @@
 ***Generative AI Final Project: Kireeti Josyula***
 
-Hello, this is the manual guide for my Generative AI Final Project, which was training a MRI brain tumor image classifier and designing a streamlit app
-would allow a user to upload an MRI image and use OpenAI's API to generate a detailed caption of the image. 
+This project includes a Streamlit MRI classifier, a Grad-CAM visualization, and an OpenAI-generated report. The app runs the saved classifier with PyTorch.
 
 **Requirements**
 
-The source code for this project are in two files: model.ipynb and streamlit-app.py
+The app uses `streamlit-app.py`, `torch_classifier.py`, and the existing `brain_tumor.h5` weights. The HDF5 file is read directly with `h5py`; running the app does not require TensorFlow or Keras.
 
-IMPORTANT: In order to run the code this project, a version of python that is 3.8 is required. This is due to the tensorflow requirement in the model generation
+Use Python 3.11 or newer for the app. Install its dependencies with:
 
-To download the dataset for this project, navigate to the following website on kaggle: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-and download the dataset to your local machine. The file contains I would advise creating a main directory and placing the downloaded dataset file along with 
-the model.ipynb and streamlit-app.py files as well as the brain_tumor.h5 file.
-
-Finally, there are many libraries necessary to be installed on your local machine in order to run the code involved in this project
-
-To install these libraries, run the following commands on your terminal or directory where the model.ipynb and streamlit-app.py files are
-
-```
-pip install numpy
-pip install tensorflow
-pip install openai
-pip install matplotlib
-pip install Pillow=10.4.0
-pip install streamlit
-pip install pandas
-pip install keras
+```sh
+python3 -m pip install -r requirements.txt
 ```
 
-These installations should be enough to get the code properly running. 
+The training dataset is available at https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset. It is not needed to run the app with an uploaded image.
 
 **Model Generation**
 
-In order to generate the model, the model.ipynb file makes use of the following imports 
+`model.ipynb` is the original TensorFlow/Keras training notebook. It is retained as a record of how `brain_tumor.h5` was trained; the app loads those weights into the matching PyTorch architecture at startup. Rerunning the notebook requires its original training dependencies.
 
-```
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
-```
-
-To generate the 'brain_tumor.h5' model, run through each code block in the model.ipynb notebook. Certain file paths in the code will have to be changed for your local machine.
+The PyTorch weight mapping and Grad-CAM can be checked with `python3 -m unittest discover -s tests -v`.
 
 **Streamlit App Running**
 
@@ -61,4 +39,4 @@ To run the streamlit app, navigate to the directory where the streamlit-app.py f
 
 ```streamlit run streamlit-app.py```
 
-This will open a streamlit app tab, where you can upload a MRI brain scan image from the Testing file of the downloaded dataset, and see the returned image caption
+This opens the app, where you can upload an MRI image and view the class probabilities, Grad-CAM overlay, and generated report.
