@@ -1,4 +1,4 @@
-***Generative AI Final Project: Kireeti Josyula***
+# Generative AI Final Project: Kireeti Josyula***
 
 This project includes a Streamlit MRI classifier, a Grad-CAM visualization, and an OpenAI-generated report. The app runs the saved classifier with PyTorch.
 
