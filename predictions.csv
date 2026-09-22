@@ -1,0 +1,1312 @@
+image_path,true_label,predicted_label,confidence
+braintumordata/Testing/glioma/Te-glTr_0000.jpg,Glioma,Pituitary,0.7529163360595703
+braintumordata/Testing/glioma/Te-glTr_0001.jpg,Glioma,Glioma,0.6144347190856934
+braintumordata/Testing/glioma/Te-glTr_0002.jpg,Glioma,Glioma,0.9957341551780701
+braintumordata/Testing/glioma/Te-glTr_0003.jpg,Glioma,Pituitary,0.6026725769042969
+braintumordata/Testing/glioma/Te-glTr_0004.jpg,Glioma,Glioma,0.641407310962677
+braintumordata/Testing/glioma/Te-glTr_0005.jpg,Glioma,Meningioma,0.8691688776016235
+braintumordata/Testing/glioma/Te-glTr_0006.jpg,Glioma,Pituitary,0.6356629729270935
+braintumordata/Testing/glioma/Te-glTr_0007.jpg,Glioma,Glioma,0.9508969783782959
+braintumordata/Testing/glioma/Te-glTr_0008.jpg,Glioma,Glioma,0.6321614384651184
+braintumordata/Testing/glioma/Te-glTr_0009.jpg,Glioma,No tumor,0.4085760712623596
+braintumordata/Testing/glioma/Te-gl_0010.jpg,Glioma,Glioma,0.5214624404907227
+braintumordata/Testing/glioma/Te-gl_0011.jpg,Glioma,Pituitary,0.7942430973052979
+braintumordata/Testing/glioma/Te-gl_0012.jpg,Glioma,Glioma,0.9904235005378723
+braintumordata/Testing/glioma/Te-gl_0013.jpg,Glioma,Glioma,0.8185345530509949
+braintumordata/Testing/glioma/Te-gl_0014.jpg,Glioma,Glioma,0.7141649127006531
+braintumordata/Testing/glioma/Te-gl_0015.jpg,Glioma,Pituitary,0.7609225511550903
+braintumordata/Testing/glioma/Te-gl_0016.jpg,Glioma,Glioma,0.9598101377487183
+braintumordata/Testing/glioma/Te-gl_0017.jpg,Glioma,Glioma,0.9872558116912842
+braintumordata/Testing/glioma/Te-gl_0018.jpg,Glioma,Glioma,0.7734308242797852
+braintumordata/Testing/glioma/Te-gl_0019.jpg,Glioma,Meningioma,0.4989370107650757
+braintumordata/Testing/glioma/Te-gl_0020.jpg,Glioma,Glioma,0.552104115486145
+braintumordata/Testing/glioma/Te-gl_0021.jpg,Glioma,Glioma,0.9188346266746521
+braintumordata/Testing/glioma/Te-gl_0022.jpg,Glioma,Pituitary,0.5601345896720886
+braintumordata/Testing/glioma/Te-gl_0023.jpg,Glioma,Meningioma,0.5659099221229553
+braintumordata/Testing/glioma/Te-gl_0024.jpg,Glioma,Pituitary,0.5555186867713928
+braintumordata/Testing/glioma/Te-gl_0025.jpg,Glioma,Glioma,0.9778483510017395
+braintumordata/Testing/glioma/Te-gl_0026.jpg,Glioma,Glioma,0.9237423539161682
+braintumordata/Testing/glioma/Te-gl_0027.jpg,Glioma,Glioma,0.9950881600379944
+braintumordata/Testing/glioma/Te-gl_0028.jpg,Glioma,Glioma,0.8680305480957031
+braintumordata/Testing/glioma/Te-gl_0029.jpg,Glioma,Pituitary,0.5555186867713928
+braintumordata/Testing/glioma/Te-gl_0030.jpg,Glioma,Meningioma,0.8698545694351196
+braintumordata/Testing/glioma/Te-gl_0031.jpg,Glioma,Glioma,0.9838635921478271
+braintumordata/Testing/glioma/Te-gl_0032.jpg,Glioma,Glioma,0.9947395920753479
+braintumordata/Testing/glioma/Te-gl_0033.jpg,Glioma,Glioma,0.9953266382217407
+braintumordata/Testing/glioma/Te-gl_0034.jpg,Glioma,Glioma,0.9139400720596313
+braintumordata/Testing/glioma/Te-gl_0035.jpg,Glioma,Glioma,0.9916988611221313
+braintumordata/Testing/glioma/Te-gl_0036.jpg,Glioma,Meningioma,0.3781982660293579
+braintumordata/Testing/glioma/Te-gl_0037.jpg,Glioma,Glioma,0.9969978332519531
+braintumordata/Testing/glioma/Te-gl_0038.jpg,Glioma,Glioma,0.8621451258659363
+braintumordata/Testing/glioma/Te-gl_0039.jpg,Glioma,Glioma,0.4932483732700348
+braintumordata/Testing/glioma/Te-gl_0040.jpg,Glioma,Glioma,0.9815372228622437
+braintumordata/Testing/glioma/Te-gl_0041.jpg,Glioma,Glioma,0.9864063858985901
+braintumordata/Testing/glioma/Te-gl_0042.jpg,Glioma,Meningioma,0.7134785652160645
+braintumordata/Testing/glioma/Te-gl_0043.jpg,Glioma,Meningioma,0.7441688776016235
+braintumordata/Testing/glioma/Te-gl_0044.jpg,Glioma,Meningioma,0.8754315972328186
+braintumordata/Testing/glioma/Te-gl_0045.jpg,Glioma,Meningioma,0.802307665348053
+braintumordata/Testing/glioma/Te-gl_0046.jpg,Glioma,Meningioma,0.9030774831771851
+braintumordata/Testing/glioma/Te-gl_0047.jpg,Glioma,Glioma,0.495391845703125
+braintumordata/Testing/glioma/Te-gl_0048.jpg,Glioma,Meningioma,0.7823000550270081
+braintumordata/Testing/glioma/Te-gl_0049.jpg,Glioma,Glioma,0.9915441274642944
+braintumordata/Testing/glioma/Te-gl_0050.jpg,Glioma,Meningioma,0.4508349895477295
+braintumordata/Testing/glioma/Te-gl_0051.jpg,Glioma,Glioma,0.9944379329681396
+braintumordata/Testing/glioma/Te-gl_0052.jpg,Glioma,Glioma,0.9964357614517212
+braintumordata/Testing/glioma/Te-gl_0053.jpg,Glioma,Glioma,0.9832478165626526
+braintumordata/Testing/glioma/Te-gl_0054.jpg,Glioma,Glioma,0.9081191420555115
+braintumordata/Testing/glioma/Te-gl_0055.jpg,Glioma,Glioma,0.9983627200126648
+braintumordata/Testing/glioma/Te-gl_0056.jpg,Glioma,Glioma,0.9817914962768555
+braintumordata/Testing/glioma/Te-gl_0057.jpg,Glioma,Meningioma,0.5341019630432129
+braintumordata/Testing/glioma/Te-gl_0058.jpg,Glioma,Pituitary,0.8817041516304016
+braintumordata/Testing/glioma/Te-gl_0059.jpg,Glioma,Pituitary,0.6010037064552307
+braintumordata/Testing/glioma/Te-gl_0060.jpg,Glioma,Glioma,0.895090639591217
+braintumordata/Testing/glioma/Te-gl_0061.jpg,Glioma,Meningioma,0.7289535403251648
+braintumordata/Testing/glioma/Te-gl_0062.jpg,Glioma,Glioma,0.9926663041114807
+braintumordata/Testing/glioma/Te-gl_0063.jpg,Glioma,Glioma,0.9870710968971252
+braintumordata/Testing/glioma/Te-gl_0064.jpg,Glioma,Glioma,0.984173059463501
+braintumordata/Testing/glioma/Te-gl_0065.jpg,Glioma,Glioma,0.9948552846908569
+braintumordata/Testing/glioma/Te-gl_0066.jpg,Glioma,Glioma,0.44981369376182556
+braintumordata/Testing/glioma/Te-gl_0067.jpg,Glioma,Pituitary,0.4810251295566559
+braintumordata/Testing/glioma/Te-gl_0068.jpg,Glioma,Meningioma,0.5046728849411011
+braintumordata/Testing/glioma/Te-gl_0069.jpg,Glioma,Glioma,0.9559838175773621
+braintumordata/Testing/glioma/Te-gl_0070.jpg,Glioma,Glioma,0.9187104105949402
+braintumordata/Testing/glioma/Te-gl_0071.jpg,Glioma,Glioma,0.7067518830299377
+braintumordata/Testing/glioma/Te-gl_0072.jpg,Glioma,Glioma,0.6173948645591736
+braintumordata/Testing/glioma/Te-gl_0073.jpg,Glioma,Glioma,0.40054386854171753
+braintumordata/Testing/glioma/Te-gl_0074.jpg,Glioma,Pituitary,0.6165781021118164
+braintumordata/Testing/glioma/Te-gl_0075.jpg,Glioma,Glioma,0.9358797073364258
+braintumordata/Testing/glioma/Te-gl_0076.jpg,Glioma,Glioma,0.988871157169342
+braintumordata/Testing/glioma/Te-gl_0077.jpg,Glioma,Glioma,0.9830957055091858
+braintumordata/Testing/glioma/Te-gl_0078.jpg,Glioma,Glioma,0.9756675362586975
+braintumordata/Testing/glioma/Te-gl_0079.jpg,Glioma,No tumor,0.5062875151634216
+braintumordata/Testing/glioma/Te-gl_0080.jpg,Glioma,Glioma,0.8874255418777466
+braintumordata/Testing/glioma/Te-gl_0081.jpg,Glioma,Pituitary,0.6222881078720093
+braintumordata/Testing/glioma/Te-gl_0082.jpg,Glioma,Glioma,0.9990321397781372
+braintumordata/Testing/glioma/Te-gl_0083.jpg,Glioma,Pituitary,0.5539761781692505
+braintumordata/Testing/glioma/Te-gl_0084.jpg,Glioma,Pituitary,0.6538649201393127
+braintumordata/Testing/glioma/Te-gl_0085.jpg,Glioma,Glioma,0.9689739346504211
+braintumordata/Testing/glioma/Te-gl_0086.jpg,Glioma,Glioma,0.986829936504364
+braintumordata/Testing/glioma/Te-gl_0087.jpg,Glioma,Glioma,0.9713199138641357
+braintumordata/Testing/glioma/Te-gl_0088.jpg,Glioma,Glioma,0.9885772466659546
+braintumordata/Testing/glioma/Te-gl_0089.jpg,Glioma,Meningioma,0.5214717388153076
+braintumordata/Testing/glioma/Te-gl_0090.jpg,Glioma,Glioma,0.6403416395187378
+braintumordata/Testing/glioma/Te-gl_0091.jpg,Glioma,Meningioma,0.40242692828178406
+braintumordata/Testing/glioma/Te-gl_0092.jpg,Glioma,Pituitary,0.31523585319519043
+braintumordata/Testing/glioma/Te-gl_0093.jpg,Glioma,Glioma,0.8312869668006897
+braintumordata/Testing/glioma/Te-gl_0094.jpg,Glioma,Meningioma,0.4295978546142578
+braintumordata/Testing/glioma/Te-gl_0095.jpg,Glioma,Glioma,0.9661213755607605
+braintumordata/Testing/glioma/Te-gl_0096.jpg,Glioma,Glioma,0.8793869018554688
+braintumordata/Testing/glioma/Te-gl_0097.jpg,Glioma,Glioma,0.8622127175331116
+braintumordata/Testing/glioma/Te-gl_0098.jpg,Glioma,Glioma,0.9937460422515869
+braintumordata/Testing/glioma/Te-gl_0099.jpg,Glioma,Pituitary,0.8067938685417175
+braintumordata/Testing/glioma/Te-gl_0100.jpg,Glioma,Glioma,0.9978112578392029
+braintumordata/Testing/glioma/Te-gl_0101.jpg,Glioma,Pituitary,0.5011715888977051
+braintumordata/Testing/glioma/Te-gl_0102.jpg,Glioma,Glioma,0.9725013375282288
+braintumordata/Testing/glioma/Te-gl_0103.jpg,Glioma,Glioma,0.9081121683120728
+braintumordata/Testing/glioma/Te-gl_0104.jpg,Glioma,Glioma,0.9970477223396301
+braintumordata/Testing/glioma/Te-gl_0105.jpg,Glioma,Glioma,0.9930078983306885
+braintumordata/Testing/glioma/Te-gl_0106.jpg,Glioma,Meningioma,0.4550629258155823
+braintumordata/Testing/glioma/Te-gl_0107.jpg,Glioma,Meningioma,0.45507457852363586
+braintumordata/Testing/glioma/Te-gl_0108.jpg,Glioma,Glioma,0.9975005984306335
+braintumordata/Testing/glioma/Te-gl_0109.jpg,Glioma,Pituitary,0.5930914282798767
+braintumordata/Testing/glioma/Te-gl_0110.jpg,Glioma,Glioma,0.7884654998779297
+braintumordata/Testing/glioma/Te-gl_0111.jpg,Glioma,Glioma,0.9473125338554382
+braintumordata/Testing/glioma/Te-gl_0112.jpg,Glioma,Glioma,0.9824143052101135
+braintumordata/Testing/glioma/Te-gl_0113.jpg,Glioma,Pituitary,0.7492457628250122
+braintumordata/Testing/glioma/Te-gl_0114.jpg,Glioma,Meningioma,0.6373967528343201
+braintumordata/Testing/glioma/Te-gl_0115.jpg,Glioma,Glioma,0.5230701565742493
+braintumordata/Testing/glioma/Te-gl_0116.jpg,Glioma,Glioma,0.980766773223877
+braintumordata/Testing/glioma/Te-gl_0117.jpg,Glioma,Glioma,0.9862710237503052
+braintumordata/Testing/glioma/Te-gl_0118.jpg,Glioma,Glioma,0.9535959362983704
+braintumordata/Testing/glioma/Te-gl_0119.jpg,Glioma,Meningioma,0.48846933245658875
+braintumordata/Testing/glioma/Te-gl_0120.jpg,Glioma,Glioma,0.9833627939224243
+braintumordata/Testing/glioma/Te-gl_0121.jpg,Glioma,Glioma,0.9972463846206665
+braintumordata/Testing/glioma/Te-gl_0122.jpg,Glioma,Meningioma,0.6681855916976929
+braintumordata/Testing/glioma/Te-gl_0123.jpg,Glioma,Glioma,0.993407130241394
+braintumordata/Testing/glioma/Te-gl_0124.jpg,Glioma,Glioma,0.9759891033172607
+braintumordata/Testing/glioma/Te-gl_0125.jpg,Glioma,Meningioma,0.7012997269630432
+braintumordata/Testing/glioma/Te-gl_0126.jpg,Glioma,Meningioma,0.6033726334571838
+braintumordata/Testing/glioma/Te-gl_0127.jpg,Glioma,Glioma,0.8620803952217102
+braintumordata/Testing/glioma/Te-gl_0128.jpg,Glioma,Glioma,0.6906437873840332
+braintumordata/Testing/glioma/Te-gl_0129.jpg,Glioma,Meningioma,0.5517084002494812
+braintumordata/Testing/glioma/Te-gl_0130.jpg,Glioma,Glioma,0.6653987169265747
+braintumordata/Testing/glioma/Te-gl_0131.jpg,Glioma,Glioma,0.9960588216781616
+braintumordata/Testing/glioma/Te-gl_0132.jpg,Glioma,Glioma,0.9757260084152222
+braintumordata/Testing/glioma/Te-gl_0133.jpg,Glioma,Glioma,0.9479991793632507
+braintumordata/Testing/glioma/Te-gl_0134.jpg,Glioma,Glioma,0.9891409873962402
+braintumordata/Testing/glioma/Te-gl_0135.jpg,Glioma,Glioma,0.9852907657623291
+braintumordata/Testing/glioma/Te-gl_0136.jpg,Glioma,Glioma,0.7296426296234131
+braintumordata/Testing/glioma/Te-gl_0137.jpg,Glioma,Glioma,0.9891136884689331
+braintumordata/Testing/glioma/Te-gl_0138.jpg,Glioma,Glioma,0.9308485388755798
+braintumordata/Testing/glioma/Te-gl_0139.jpg,Glioma,Glioma,0.6208165287971497
+braintumordata/Testing/glioma/Te-gl_0140.jpg,Glioma,Glioma,0.6970535516738892
+braintumordata/Testing/glioma/Te-gl_0141.jpg,Glioma,Glioma,0.9983768463134766
+braintumordata/Testing/glioma/Te-gl_0142.jpg,Glioma,Glioma,0.9978410005569458
+braintumordata/Testing/glioma/Te-gl_0143.jpg,Glioma,Glioma,0.9923377633094788
+braintumordata/Testing/glioma/Te-gl_0144.jpg,Glioma,Glioma,0.9981579184532166
+braintumordata/Testing/glioma/Te-gl_0145.jpg,Glioma,Glioma,0.9958809614181519
+braintumordata/Testing/glioma/Te-gl_0146.jpg,Glioma,Glioma,0.9960840940475464
+braintumordata/Testing/glioma/Te-gl_0147.jpg,Glioma,Pituitary,0.8253338932991028
+braintumordata/Testing/glioma/Te-gl_0148.jpg,Glioma,Glioma,0.9764549136161804
+braintumordata/Testing/glioma/Te-gl_0149.jpg,Glioma,Glioma,0.9444708824157715
+braintumordata/Testing/glioma/Te-gl_0150.jpg,Glioma,Glioma,0.5286939144134521
+braintumordata/Testing/glioma/Te-gl_0151.jpg,Glioma,Glioma,0.9942730069160461
+braintumordata/Testing/glioma/Te-gl_0152.jpg,Glioma,Meningioma,0.4996052384376526
+braintumordata/Testing/glioma/Te-gl_0153.jpg,Glioma,Meningioma,0.4600559175014496
+braintumordata/Testing/glioma/Te-gl_0154.jpg,Glioma,Glioma,0.8548376560211182
+braintumordata/Testing/glioma/Te-gl_0155.jpg,Glioma,Glioma,0.9970269799232483
+braintumordata/Testing/glioma/Te-gl_0156.jpg,Glioma,Glioma,0.9907572865486145
+braintumordata/Testing/glioma/Te-gl_0157.jpg,Glioma,Glioma,0.9934542179107666
+braintumordata/Testing/glioma/Te-gl_0158.jpg,Glioma,Glioma,0.9041736721992493
+braintumordata/Testing/glioma/Te-gl_0159.jpg,Glioma,Glioma,0.5845758318901062
+braintumordata/Testing/glioma/Te-gl_0160.jpg,Glioma,Glioma,0.5113252401351929
+braintumordata/Testing/glioma/Te-gl_0161.jpg,Glioma,Glioma,0.8829019069671631
+braintumordata/Testing/glioma/Te-gl_0162.jpg,Glioma,Meningioma,0.5035702586174011
+braintumordata/Testing/glioma/Te-gl_0163.jpg,Glioma,Glioma,0.809415876865387
+braintumordata/Testing/glioma/Te-gl_0164.jpg,Glioma,Pituitary,0.5048673748970032
+braintumordata/Testing/glioma/Te-gl_0165.jpg,Glioma,Glioma,0.9714685082435608
+braintumordata/Testing/glioma/Te-gl_0166.jpg,Glioma,Glioma,0.749523401260376
+braintumordata/Testing/glioma/Te-gl_0167.jpg,Glioma,Glioma,0.9415221214294434
+braintumordata/Testing/glioma/Te-gl_0168.jpg,Glioma,Meningioma,0.817543089389801
+braintumordata/Testing/glioma/Te-gl_0169.jpg,Glioma,Glioma,0.6625423431396484
+braintumordata/Testing/glioma/Te-gl_0170.jpg,Glioma,Glioma,0.9926405549049377
+braintumordata/Testing/glioma/Te-gl_0171.jpg,Glioma,Glioma,0.9868847131729126
+braintumordata/Testing/glioma/Te-gl_0172.jpg,Glioma,Glioma,0.882976770401001
+braintumordata/Testing/glioma/Te-gl_0173.jpg,Glioma,Glioma,0.9690863490104675
+braintumordata/Testing/glioma/Te-gl_0174.jpg,Glioma,Glioma,0.5109173655509949
+braintumordata/Testing/glioma/Te-gl_0175.jpg,Glioma,Meningioma,0.6670511364936829
+braintumordata/Testing/glioma/Te-gl_0176.jpg,Glioma,Glioma,0.7559676766395569
+braintumordata/Testing/glioma/Te-gl_0177.jpg,Glioma,Meningioma,0.5743589401245117
+braintumordata/Testing/glioma/Te-gl_0178.jpg,Glioma,Meningioma,0.8762933611869812
+braintumordata/Testing/glioma/Te-gl_0179.jpg,Glioma,Glioma,0.853404700756073
+braintumordata/Testing/glioma/Te-gl_0180.jpg,Glioma,Glioma,0.960547924041748
+braintumordata/Testing/glioma/Te-gl_0181.jpg,Glioma,Glioma,0.8580821752548218
+braintumordata/Testing/glioma/Te-gl_0182.jpg,Glioma,Meningioma,0.4919871985912323
+braintumordata/Testing/glioma/Te-gl_0183.jpg,Glioma,Glioma,0.5582584738731384
+braintumordata/Testing/glioma/Te-gl_0184.jpg,Glioma,Meningioma,0.558226466178894
+braintumordata/Testing/glioma/Te-gl_0185.jpg,Glioma,Glioma,0.49484550952911377
+braintumordata/Testing/glioma/Te-gl_0186.jpg,Glioma,Glioma,0.9670314192771912
+braintumordata/Testing/glioma/Te-gl_0187.jpg,Glioma,Glioma,0.48367491364479065
+braintumordata/Testing/glioma/Te-gl_0188.jpg,Glioma,Glioma,0.6503477692604065
+braintumordata/Testing/glioma/Te-gl_0189.jpg,Glioma,Glioma,0.8504480719566345
+braintumordata/Testing/glioma/Te-gl_0190.jpg,Glioma,Glioma,0.9322569966316223
+braintumordata/Testing/glioma/Te-gl_0191.jpg,Glioma,Glioma,0.9882200956344604
+braintumordata/Testing/glioma/Te-gl_0192.jpg,Glioma,Meningioma,0.7324746251106262
+braintumordata/Testing/glioma/Te-gl_0193.jpg,Glioma,Glioma,0.9797074794769287
+braintumordata/Testing/glioma/Te-gl_0194.jpg,Glioma,Glioma,0.8520667552947998
+braintumordata/Testing/glioma/Te-gl_0195.jpg,Glioma,Glioma,0.7218449115753174
+braintumordata/Testing/glioma/Te-gl_0196.jpg,Glioma,Meningioma,0.5396401286125183
+braintumordata/Testing/glioma/Te-gl_0197.jpg,Glioma,Meningioma,0.771364152431488
+braintumordata/Testing/glioma/Te-gl_0198.jpg,Glioma,Glioma,0.9442864060401917
+braintumordata/Testing/glioma/Te-gl_0199.jpg,Glioma,Glioma,0.9658169746398926
+braintumordata/Testing/glioma/Te-gl_0200.jpg,Glioma,Glioma,0.9188019037246704
+braintumordata/Testing/glioma/Te-gl_0201.jpg,Glioma,Meningioma,0.5894647240638733
+braintumordata/Testing/glioma/Te-gl_0202.jpg,Glioma,Glioma,0.47715726494789124
+braintumordata/Testing/glioma/Te-gl_0203.jpg,Glioma,Meningioma,0.7681365013122559
+braintumordata/Testing/glioma/Te-gl_0204.jpg,Glioma,Glioma,0.8003919720649719
+braintumordata/Testing/glioma/Te-gl_0205.jpg,Glioma,Glioma,0.5556513667106628
+braintumordata/Testing/glioma/Te-gl_0206.jpg,Glioma,Meningioma,0.7075445652008057
+braintumordata/Testing/glioma/Te-gl_0207.jpg,Glioma,Glioma,0.5999302268028259
+braintumordata/Testing/glioma/Te-gl_0208.jpg,Glioma,Glioma,0.47320759296417236
+braintumordata/Testing/glioma/Te-gl_0209.jpg,Glioma,Glioma,0.5642789602279663
+braintumordata/Testing/glioma/Te-gl_0210.jpg,Glioma,Glioma,0.5633400678634644
+braintumordata/Testing/glioma/Te-gl_0211.jpg,Glioma,Glioma,0.5834715366363525
+braintumordata/Testing/glioma/Te-gl_0212.jpg,Glioma,Glioma,0.9071844816207886
+braintumordata/Testing/glioma/Te-gl_0213.jpg,Glioma,Glioma,0.8383745551109314
+braintumordata/Testing/glioma/Te-gl_0214.jpg,Glioma,Glioma,0.9511127471923828
+braintumordata/Testing/glioma/Te-gl_0215.jpg,Glioma,Glioma,0.9631304144859314
+braintumordata/Testing/glioma/Te-gl_0216.jpg,Glioma,Glioma,0.8290308117866516
+braintumordata/Testing/glioma/Te-gl_0217.jpg,Glioma,Glioma,0.8501011729240417
+braintumordata/Testing/glioma/Te-gl_0218.jpg,Glioma,Glioma,0.9637299180030823
+braintumordata/Testing/glioma/Te-gl_0219.jpg,Glioma,Pituitary,0.4651259183883667
+braintumordata/Testing/glioma/Te-gl_0220.jpg,Glioma,Glioma,0.7750343680381775
+braintumordata/Testing/glioma/Te-gl_0221.jpg,Glioma,Glioma,0.7566176056861877
+braintumordata/Testing/glioma/Te-gl_0222.jpg,Glioma,Glioma,0.39403173327445984
+braintumordata/Testing/glioma/Te-gl_0223.jpg,Glioma,Glioma,0.9540732502937317
+braintumordata/Testing/glioma/Te-gl_0224.jpg,Glioma,No tumor,0.39421728253364563
+braintumordata/Testing/glioma/Te-gl_0225.jpg,Glioma,Meningioma,0.49762919545173645
+braintumordata/Testing/glioma/Te-gl_0226.jpg,Glioma,Pituitary,0.4428831934928894
+braintumordata/Testing/glioma/Te-gl_0227.jpg,Glioma,Glioma,0.9093067049980164
+braintumordata/Testing/glioma/Te-gl_0228.jpg,Glioma,Glioma,0.5903985500335693
+braintumordata/Testing/glioma/Te-gl_0229.jpg,Glioma,Meningioma,0.5574553608894348
+braintumordata/Testing/glioma/Te-gl_0230.jpg,Glioma,Meningioma,0.6313382387161255
+braintumordata/Testing/glioma/Te-gl_0231.jpg,Glioma,Pituitary,0.39322730898857117
+braintumordata/Testing/glioma/Te-gl_0232.jpg,Glioma,Meningioma,0.8015119433403015
+braintumordata/Testing/glioma/Te-gl_0233.jpg,Glioma,Meningioma,0.8153564929962158
+braintumordata/Testing/glioma/Te-gl_0234.jpg,Glioma,Meningioma,0.747218906879425
+braintumordata/Testing/glioma/Te-gl_0235.jpg,Glioma,Meningioma,0.8950696587562561
+braintumordata/Testing/glioma/Te-gl_0236.jpg,Glioma,Meningioma,0.8455174565315247
+braintumordata/Testing/glioma/Te-gl_0237.jpg,Glioma,Glioma,0.8026203513145447
+braintumordata/Testing/glioma/Te-gl_0238.jpg,Glioma,Meningioma,0.7994367480278015
+braintumordata/Testing/glioma/Te-gl_0239.jpg,Glioma,Glioma,0.7664684653282166
+braintumordata/Testing/glioma/Te-gl_0240.jpg,Glioma,Glioma,0.48545876145362854
+braintumordata/Testing/glioma/Te-gl_0241.jpg,Glioma,Glioma,0.5734633803367615
+braintumordata/Testing/glioma/Te-gl_0242.jpg,Glioma,Glioma,0.5088858008384705
+braintumordata/Testing/glioma/Te-gl_0243.jpg,Glioma,Glioma,0.43806588649749756
+braintumordata/Testing/glioma/Te-gl_0244.jpg,Glioma,Meningioma,0.8410229086875916
+braintumordata/Testing/glioma/Te-gl_0245.jpg,Glioma,Meningioma,0.4739739000797272
+braintumordata/Testing/glioma/Te-gl_0246.jpg,Glioma,Meningioma,0.7762587070465088
+braintumordata/Testing/glioma/Te-gl_0247.jpg,Glioma,Meningioma,0.6173683404922485
+braintumordata/Testing/glioma/Te-gl_0248.jpg,Glioma,Pituitary,0.96373051404953
+braintumordata/Testing/glioma/Te-gl_0249.jpg,Glioma,Pituitary,0.889889657497406
+braintumordata/Testing/glioma/Te-gl_0250.jpg,Glioma,Pituitary,0.6516529321670532
+braintumordata/Testing/glioma/Te-gl_0251.jpg,Glioma,Meningioma,0.6372581720352173
+braintumordata/Testing/glioma/Te-gl_0252.jpg,Glioma,Meningioma,0.5976749658584595
+braintumordata/Testing/glioma/Te-gl_0253.jpg,Glioma,Meningioma,0.5303210020065308
+braintumordata/Testing/glioma/Te-gl_0254.jpg,Glioma,Glioma,0.6394162774085999
+braintumordata/Testing/glioma/Te-gl_0255.jpg,Glioma,Glioma,0.7009478807449341
+braintumordata/Testing/glioma/Te-gl_0256.jpg,Glioma,Meningioma,0.8860452771186829
+braintumordata/Testing/glioma/Te-gl_0257.jpg,Glioma,Glioma,0.7698841094970703
+braintumordata/Testing/glioma/Te-gl_0258.jpg,Glioma,Meningioma,0.7460579872131348
+braintumordata/Testing/glioma/Te-gl_0259.jpg,Glioma,Pituitary,0.41897088289260864
+braintumordata/Testing/glioma/Te-gl_0260.jpg,Glioma,Glioma,0.5156459212303162
+braintumordata/Testing/glioma/Te-gl_0261.jpg,Glioma,Meningioma,0.777636706829071
+braintumordata/Testing/glioma/Te-gl_0262.jpg,Glioma,Meningioma,0.633578896522522
+braintumordata/Testing/glioma/Te-gl_0263.jpg,Glioma,Meningioma,0.6880348920822144
+braintumordata/Testing/glioma/Te-gl_0264.jpg,Glioma,Meningioma,0.5855520367622375
+braintumordata/Testing/glioma/Te-gl_0265.jpg,Glioma,Pituitary,0.6877065300941467
+braintumordata/Testing/glioma/Te-gl_0266.jpg,Glioma,Meningioma,0.5054246783256531
+braintumordata/Testing/glioma/Te-gl_0267.jpg,Glioma,Glioma,0.5963708758354187
+braintumordata/Testing/glioma/Te-gl_0268.jpg,Glioma,Pituitary,0.4806482195854187
+braintumordata/Testing/glioma/Te-gl_0269.jpg,Glioma,Meningioma,0.6534146666526794
+braintumordata/Testing/glioma/Te-gl_0270.jpg,Glioma,Meningioma,0.6703992486000061
+braintumordata/Testing/glioma/Te-gl_0271.jpg,Glioma,Meningioma,0.49088233709335327
+braintumordata/Testing/glioma/Te-gl_0272.jpg,Glioma,Pituitary,0.743096113204956
+braintumordata/Testing/glioma/Te-gl_0273.jpg,Glioma,Pituitary,0.8202522397041321
+braintumordata/Testing/glioma/Te-gl_0274.jpg,Glioma,Pituitary,0.43805113434791565
+braintumordata/Testing/glioma/Te-gl_0275.jpg,Glioma,Glioma,0.493478000164032
+braintumordata/Testing/glioma/Te-gl_0276.jpg,Glioma,Glioma,0.7107416391372681
+braintumordata/Testing/glioma/Te-gl_0277.jpg,Glioma,Pituitary,0.6438732743263245
+braintumordata/Testing/glioma/Te-gl_0278.jpg,Glioma,Meningioma,0.8316221833229065
+braintumordata/Testing/glioma/Te-gl_0279.jpg,Glioma,Meningioma,0.6136970520019531
+braintumordata/Testing/glioma/Te-gl_0280.jpg,Glioma,Meningioma,0.521248996257782
+braintumordata/Testing/glioma/Te-gl_0281.jpg,Glioma,Meningioma,0.6914913654327393
+braintumordata/Testing/glioma/Te-gl_0282.jpg,Glioma,Meningioma,0.7282069325447083
+braintumordata/Testing/glioma/Te-gl_0283.jpg,Glioma,Glioma,0.6004269123077393
+braintumordata/Testing/glioma/Te-gl_0284.jpg,Glioma,Glioma,0.5111674666404724
+braintumordata/Testing/glioma/Te-gl_0285.jpg,Glioma,Meningioma,0.7768423557281494
+braintumordata/Testing/glioma/Te-gl_0286.jpg,Glioma,Glioma,0.9779647588729858
+braintumordata/Testing/glioma/Te-gl_0287.jpg,Glioma,Glioma,0.9612863063812256
+braintumordata/Testing/glioma/Te-gl_0288.jpg,Glioma,Glioma,0.9977251887321472
+braintumordata/Testing/glioma/Te-gl_0289.jpg,Glioma,Pituitary,0.6985642910003662
+braintumordata/Testing/glioma/Te-gl_0290.jpg,Glioma,Pituitary,0.4428333044052124
+braintumordata/Testing/glioma/Te-gl_0291.jpg,Glioma,Meningioma,0.6388063430786133
+braintumordata/Testing/glioma/Te-gl_0292.jpg,Glioma,Pituitary,0.3889829218387604
+braintumordata/Testing/glioma/Te-gl_0293.jpg,Glioma,Meningioma,0.7940330505371094
+braintumordata/Testing/glioma/Te-gl_0294.jpg,Glioma,Glioma,0.6678927540779114
+braintumordata/Testing/glioma/Te-gl_0295.jpg,Glioma,Meningioma,0.4673421382904053
+braintumordata/Testing/glioma/Te-gl_0296.jpg,Glioma,Glioma,0.44888633489608765
+braintumordata/Testing/glioma/Te-gl_0297.jpg,Glioma,Glioma,0.5079419612884521
+braintumordata/Testing/glioma/Te-gl_0298.jpg,Glioma,Glioma,0.9794314503669739
+braintumordata/Testing/glioma/Te-gl_0299.jpg,Glioma,Pituitary,0.9273611903190613
+braintumordata/Testing/meningioma/Te-meTr_0000.jpg,Meningioma,No tumor,0.7979718446731567
+braintumordata/Testing/meningioma/Te-meTr_0001.jpg,Meningioma,Meningioma,0.4868198037147522
+braintumordata/Testing/meningioma/Te-meTr_0002.jpg,Meningioma,No tumor,0.8007603287696838
+braintumordata/Testing/meningioma/Te-meTr_0003.jpg,Meningioma,No tumor,0.777114748954773
+braintumordata/Testing/meningioma/Te-meTr_0004.jpg,Meningioma,No tumor,0.9123748540878296
+braintumordata/Testing/meningioma/Te-meTr_0005.jpg,Meningioma,No tumor,0.859375
+braintumordata/Testing/meningioma/Te-meTr_0006.jpg,Meningioma,No tumor,0.9873886108398438
+braintumordata/Testing/meningioma/Te-meTr_0007.jpg,Meningioma,No tumor,0.44048911333084106
+braintumordata/Testing/meningioma/Te-meTr_0008.jpg,Meningioma,No tumor,0.6911413669586182
+braintumordata/Testing/meningioma/Te-meTr_0009.jpg,Meningioma,No tumor,0.6716652512550354
+braintumordata/Testing/meningioma/Te-me_0010.jpg,Meningioma,No tumor,0.8632722496986389
+braintumordata/Testing/meningioma/Te-me_0011.jpg,Meningioma,No tumor,0.9602099061012268
+braintumordata/Testing/meningioma/Te-me_0012.jpg,Meningioma,No tumor,0.7793939709663391
+braintumordata/Testing/meningioma/Te-me_0013.jpg,Meningioma,No tumor,0.9131306409835815
+braintumordata/Testing/meningioma/Te-me_0014.jpg,Meningioma,No tumor,0.7997772097587585
+braintumordata/Testing/meningioma/Te-me_0015.jpg,Meningioma,No tumor,0.9084476232528687
+braintumordata/Testing/meningioma/Te-me_0016.jpg,Meningioma,No tumor,0.8477863669395447
+braintumordata/Testing/meningioma/Te-me_0017.jpg,Meningioma,No tumor,0.8976848125457764
+braintumordata/Testing/meningioma/Te-me_0018.jpg,Meningioma,No tumor,0.6913909316062927
+braintumordata/Testing/meningioma/Te-me_0019.jpg,Meningioma,No tumor,0.9983217120170593
+braintumordata/Testing/meningioma/Te-me_0020.jpg,Meningioma,No tumor,0.9668954610824585
+braintumordata/Testing/meningioma/Te-me_0021.jpg,Meningioma,No tumor,0.7083607912063599
+braintumordata/Testing/meningioma/Te-me_0022.jpg,Meningioma,No tumor,0.8739596009254456
+braintumordata/Testing/meningioma/Te-me_0023.jpg,Meningioma,No tumor,0.8283749222755432
+braintumordata/Testing/meningioma/Te-me_0024.jpg,Meningioma,No tumor,0.9985588192939758
+braintumordata/Testing/meningioma/Te-me_0025.jpg,Meningioma,No tumor,0.5529196262359619
+braintumordata/Testing/meningioma/Te-me_0026.jpg,Meningioma,No tumor,0.6136457324028015
+braintumordata/Testing/meningioma/Te-me_0027.jpg,Meningioma,No tumor,0.6868016719818115
+braintumordata/Testing/meningioma/Te-me_0028.jpg,Meningioma,No tumor,0.5669756531715393
+braintumordata/Testing/meningioma/Te-me_0029.jpg,Meningioma,No tumor,0.9739968180656433
+braintumordata/Testing/meningioma/Te-me_0030.jpg,Meningioma,Meningioma,0.7760781049728394
+braintumordata/Testing/meningioma/Te-me_0031.jpg,Meningioma,No tumor,0.8632722496986389
+braintumordata/Testing/meningioma/Te-me_0032.jpg,Meningioma,No tumor,0.9935021996498108
+braintumordata/Testing/meningioma/Te-me_0033.jpg,Meningioma,No tumor,0.9504028558731079
+braintumordata/Testing/meningioma/Te-me_0034.jpg,Meningioma,No tumor,0.8249648213386536
+braintumordata/Testing/meningioma/Te-me_0035.jpg,Meningioma,No tumor,0.815043032169342
+braintumordata/Testing/meningioma/Te-me_0036.jpg,Meningioma,No tumor,0.8768614530563354
+braintumordata/Testing/meningioma/Te-me_0037.jpg,Meningioma,No tumor,0.5372507572174072
+braintumordata/Testing/meningioma/Te-me_0038.jpg,Meningioma,No tumor,0.6844525933265686
+braintumordata/Testing/meningioma/Te-me_0039.jpg,Meningioma,No tumor,0.8977394104003906
+braintumordata/Testing/meningioma/Te-me_0040.jpg,Meningioma,No tumor,0.8637914657592773
+braintumordata/Testing/meningioma/Te-me_0041.jpg,Meningioma,No tumor,0.8441591858863831
+braintumordata/Testing/meningioma/Te-me_0042.jpg,Meningioma,No tumor,0.7032278180122375
+braintumordata/Testing/meningioma/Te-me_0043.jpg,Meningioma,No tumor,0.8561036586761475
+braintumordata/Testing/meningioma/Te-me_0044.jpg,Meningioma,No tumor,0.9998654127120972
+braintumordata/Testing/meningioma/Te-me_0045.jpg,Meningioma,No tumor,0.6832563877105713
+braintumordata/Testing/meningioma/Te-me_0046.jpg,Meningioma,No tumor,0.696702778339386
+braintumordata/Testing/meningioma/Te-me_0047.jpg,Meningioma,No tumor,0.8404908776283264
+braintumordata/Testing/meningioma/Te-me_0048.jpg,Meningioma,No tumor,0.6176027655601501
+braintumordata/Testing/meningioma/Te-me_0049.jpg,Meningioma,No tumor,0.7107535004615784
+braintumordata/Testing/meningioma/Te-me_0050.jpg,Meningioma,No tumor,0.781337559223175
+braintumordata/Testing/meningioma/Te-me_0051.jpg,Meningioma,No tumor,0.49782276153564453
+braintumordata/Testing/meningioma/Te-me_0052.jpg,Meningioma,No tumor,0.5650858879089355
+braintumordata/Testing/meningioma/Te-me_0053.jpg,Meningioma,No tumor,0.8945186734199524
+braintumordata/Testing/meningioma/Te-me_0054.jpg,Meningioma,No tumor,0.702889621257782
+braintumordata/Testing/meningioma/Te-me_0055.jpg,Meningioma,No tumor,0.8484171032905579
+braintumordata/Testing/meningioma/Te-me_0056.jpg,Meningioma,No tumor,0.6979621052742004
+braintumordata/Testing/meningioma/Te-me_0057.jpg,Meningioma,No tumor,0.6800172328948975
+braintumordata/Testing/meningioma/Te-me_0058.jpg,Meningioma,Meningioma,0.8213065266609192
+braintumordata/Testing/meningioma/Te-me_0059.jpg,Meningioma,No tumor,0.8248258829116821
+braintumordata/Testing/meningioma/Te-me_0060.jpg,Meningioma,No tumor,0.7330237627029419
+braintumordata/Testing/meningioma/Te-me_0061.jpg,Meningioma,No tumor,0.6755126714706421
+braintumordata/Testing/meningioma/Te-me_0062.jpg,Meningioma,No tumor,0.9196969270706177
+braintumordata/Testing/meningioma/Te-me_0063.jpg,Meningioma,No tumor,0.5322195887565613
+braintumordata/Testing/meningioma/Te-me_0064.jpg,Meningioma,No tumor,0.49585750699043274
+braintumordata/Testing/meningioma/Te-me_0065.jpg,Meningioma,No tumor,0.91011643409729
+braintumordata/Testing/meningioma/Te-me_0066.jpg,Meningioma,No tumor,0.9883698225021362
+braintumordata/Testing/meningioma/Te-me_0067.jpg,Meningioma,Meningioma,0.5137282013893127
+braintumordata/Testing/meningioma/Te-me_0068.jpg,Meningioma,No tumor,0.6149336099624634
+braintumordata/Testing/meningioma/Te-me_0069.jpg,Meningioma,No tumor,0.8714669346809387
+braintumordata/Testing/meningioma/Te-me_0070.jpg,Meningioma,No tumor,0.8988837599754333
+braintumordata/Testing/meningioma/Te-me_0071.jpg,Meningioma,No tumor,0.58758145570755
+braintumordata/Testing/meningioma/Te-me_0072.jpg,Meningioma,No tumor,0.7532753944396973
+braintumordata/Testing/meningioma/Te-me_0073.jpg,Meningioma,No tumor,0.58758145570755
+braintumordata/Testing/meningioma/Te-me_0074.jpg,Meningioma,No tumor,0.9082871675491333
+braintumordata/Testing/meningioma/Te-me_0075.jpg,Meningioma,No tumor,0.4600929617881775
+braintumordata/Testing/meningioma/Te-me_0076.jpg,Meningioma,No tumor,0.5704171061515808
+braintumordata/Testing/meningioma/Te-me_0077.jpg,Meningioma,No tumor,0.6294414401054382
+braintumordata/Testing/meningioma/Te-me_0078.jpg,Meningioma,No tumor,0.8445160984992981
+braintumordata/Testing/meningioma/Te-me_0079.jpg,Meningioma,No tumor,0.6151689291000366
+braintumordata/Testing/meningioma/Te-me_0080.jpg,Meningioma,No tumor,0.8046414256095886
+braintumordata/Testing/meningioma/Te-me_0081.jpg,Meningioma,No tumor,0.899070680141449
+braintumordata/Testing/meningioma/Te-me_0082.jpg,Meningioma,No tumor,0.9531824588775635
+braintumordata/Testing/meningioma/Te-me_0083.jpg,Meningioma,No tumor,0.6557779312133789
+braintumordata/Testing/meningioma/Te-me_0084.jpg,Meningioma,No tumor,0.8963609933853149
+braintumordata/Testing/meningioma/Te-me_0085.jpg,Meningioma,No tumor,0.7672280669212341
+braintumordata/Testing/meningioma/Te-me_0086.jpg,Meningioma,No tumor,0.5347110033035278
+braintumordata/Testing/meningioma/Te-me_0087.jpg,Meningioma,No tumor,0.6866205334663391
+braintumordata/Testing/meningioma/Te-me_0088.jpg,Meningioma,No tumor,0.7486885786056519
+braintumordata/Testing/meningioma/Te-me_0089.jpg,Meningioma,No tumor,0.8029815554618835
+braintumordata/Testing/meningioma/Te-me_0090.jpg,Meningioma,No tumor,0.9013826847076416
+braintumordata/Testing/meningioma/Te-me_0091.jpg,Meningioma,No tumor,0.9203375577926636
+braintumordata/Testing/meningioma/Te-me_0092.jpg,Meningioma,Pituitary,0.5235530734062195
+braintumordata/Testing/meningioma/Te-me_0093.jpg,Meningioma,No tumor,0.9906461238861084
+braintumordata/Testing/meningioma/Te-me_0094.jpg,Meningioma,Glioma,0.7076106071472168
+braintumordata/Testing/meningioma/Te-me_0095.jpg,Meningioma,No tumor,0.6327991485595703
+braintumordata/Testing/meningioma/Te-me_0096.jpg,Meningioma,No tumor,0.8978532552719116
+braintumordata/Testing/meningioma/Te-me_0097.jpg,Meningioma,No tumor,0.7865767478942871
+braintumordata/Testing/meningioma/Te-me_0098.jpg,Meningioma,No tumor,0.7727401256561279
+braintumordata/Testing/meningioma/Te-me_0099.jpg,Meningioma,No tumor,0.9709652662277222
+braintumordata/Testing/meningioma/Te-me_0100.jpg,Meningioma,No tumor,0.8099059462547302
+braintumordata/Testing/meningioma/Te-me_0101.jpg,Meningioma,No tumor,0.9939450621604919
+braintumordata/Testing/meningioma/Te-me_0102.jpg,Meningioma,Meningioma,0.5505905151367188
+braintumordata/Testing/meningioma/Te-me_0103.jpg,Meningioma,No tumor,0.7552536129951477
+braintumordata/Testing/meningioma/Te-me_0104.jpg,Meningioma,No tumor,0.5631815195083618
+braintumordata/Testing/meningioma/Te-me_0105.jpg,Meningioma,No tumor,0.6935827732086182
+braintumordata/Testing/meningioma/Te-me_0106.jpg,Meningioma,No tumor,0.9861518740653992
+braintumordata/Testing/meningioma/Te-me_0107.jpg,Meningioma,No tumor,0.9157506823539734
+braintumordata/Testing/meningioma/Te-me_0108.jpg,Meningioma,No tumor,0.9570948481559753
+braintumordata/Testing/meningioma/Te-me_0109.jpg,Meningioma,No tumor,0.6242788434028625
+braintumordata/Testing/meningioma/Te-me_0110.jpg,Meningioma,No tumor,0.38869157433509827
+braintumordata/Testing/meningioma/Te-me_0111.jpg,Meningioma,No tumor,0.9643942713737488
+braintumordata/Testing/meningioma/Te-me_0112.jpg,Meningioma,No tumor,0.7269798517227173
+braintumordata/Testing/meningioma/Te-me_0113.jpg,Meningioma,No tumor,0.9595802426338196
+braintumordata/Testing/meningioma/Te-me_0114.jpg,Meningioma,No tumor,0.8622540235519409
+braintumordata/Testing/meningioma/Te-me_0115.jpg,Meningioma,Pituitary,0.5497207641601562
+braintumordata/Testing/meningioma/Te-me_0116.jpg,Meningioma,Pituitary,0.4454486072063446
+braintumordata/Testing/meningioma/Te-me_0117.jpg,Meningioma,Meningioma,0.9606887102127075
+braintumordata/Testing/meningioma/Te-me_0118.jpg,Meningioma,Pituitary,0.8537402153015137
+braintumordata/Testing/meningioma/Te-me_0119.jpg,Meningioma,Meningioma,0.4627237617969513
+braintumordata/Testing/meningioma/Te-me_0120.jpg,Meningioma,Meningioma,0.7754098176956177
+braintumordata/Testing/meningioma/Te-me_0121.jpg,Meningioma,Pituitary,0.5355608463287354
+braintumordata/Testing/meningioma/Te-me_0122.jpg,Meningioma,Meningioma,0.43942317366600037
+braintumordata/Testing/meningioma/Te-me_0123.jpg,Meningioma,Pituitary,0.5843843817710876
+braintumordata/Testing/meningioma/Te-me_0124.jpg,Meningioma,No tumor,0.6035873889923096
+braintumordata/Testing/meningioma/Te-me_0125.jpg,Meningioma,Meningioma,0.8569281101226807
+braintumordata/Testing/meningioma/Te-me_0126.jpg,Meningioma,Meningioma,0.8943834900856018
+braintumordata/Testing/meningioma/Te-me_0127.jpg,Meningioma,Meningioma,0.7138903737068176
+braintumordata/Testing/meningioma/Te-me_0128.jpg,Meningioma,Meningioma,0.6483645439147949
+braintumordata/Testing/meningioma/Te-me_0129.jpg,Meningioma,Meningioma,0.509257435798645
+braintumordata/Testing/meningioma/Te-me_0130.jpg,Meningioma,Meningioma,0.9006308317184448
+braintumordata/Testing/meningioma/Te-me_0131.jpg,Meningioma,Meningioma,0.792854905128479
+braintumordata/Testing/meningioma/Te-me_0132.jpg,Meningioma,Pituitary,0.8066670298576355
+braintumordata/Testing/meningioma/Te-me_0133.jpg,Meningioma,Meningioma,0.6388000249862671
+braintumordata/Testing/meningioma/Te-me_0134.jpg,Meningioma,Meningioma,0.9252678751945496
+braintumordata/Testing/meningioma/Te-me_0135.jpg,Meningioma,Meningioma,0.8852614164352417
+braintumordata/Testing/meningioma/Te-me_0136.jpg,Meningioma,Pituitary,0.6529781818389893
+braintumordata/Testing/meningioma/Te-me_0137.jpg,Meningioma,Meningioma,0.6038047075271606
+braintumordata/Testing/meningioma/Te-me_0138.jpg,Meningioma,Glioma,0.7613707780838013
+braintumordata/Testing/meningioma/Te-me_0139.jpg,Meningioma,Meningioma,0.8333663940429688
+braintumordata/Testing/meningioma/Te-me_0140.jpg,Meningioma,No tumor,0.8007603287696838
+braintumordata/Testing/meningioma/Te-me_0141.jpg,Meningioma,Meningioma,0.5704293847084045
+braintumordata/Testing/meningioma/Te-me_0142.jpg,Meningioma,Meningioma,0.6933137774467468
+braintumordata/Testing/meningioma/Te-me_0143.jpg,Meningioma,No tumor,0.9861518740653992
+braintumordata/Testing/meningioma/Te-me_0144.jpg,Meningioma,No tumor,0.46114927530288696
+braintumordata/Testing/meningioma/Te-me_0145.jpg,Meningioma,No tumor,0.38869157433509827
+braintumordata/Testing/meningioma/Te-me_0146.jpg,Meningioma,Meningioma,0.42371666431427
+braintumordata/Testing/meningioma/Te-me_0147.jpg,Meningioma,Meningioma,0.8679623603820801
+braintumordata/Testing/meningioma/Te-me_0148.jpg,Meningioma,Pituitary,0.9486804008483887
+braintumordata/Testing/meningioma/Te-me_0149.jpg,Meningioma,Meningioma,0.9308678507804871
+braintumordata/Testing/meningioma/Te-me_0150.jpg,Meningioma,Meningioma,0.5733704566955566
+braintumordata/Testing/meningioma/Te-me_0151.jpg,Meningioma,No tumor,0.5465112924575806
+braintumordata/Testing/meningioma/Te-me_0152.jpg,Meningioma,Meningioma,0.8512478470802307
+braintumordata/Testing/meningioma/Te-me_0153.jpg,Meningioma,Meningioma,0.6387865543365479
+braintumordata/Testing/meningioma/Te-me_0154.jpg,Meningioma,Meningioma,0.8609493374824524
+braintumordata/Testing/meningioma/Te-me_0155.jpg,Meningioma,Meningioma,0.5251328349113464
+braintumordata/Testing/meningioma/Te-me_0156.jpg,Meningioma,Meningioma,0.5060622692108154
+braintumordata/Testing/meningioma/Te-me_0157.jpg,Meningioma,Meningioma,0.7711896896362305
+braintumordata/Testing/meningioma/Te-me_0158.jpg,Meningioma,Glioma,0.6908280849456787
+braintumordata/Testing/meningioma/Te-me_0159.jpg,Meningioma,Meningioma,0.4173260033130646
+braintumordata/Testing/meningioma/Te-me_0160.jpg,Meningioma,Meningioma,0.5258323550224304
+braintumordata/Testing/meningioma/Te-me_0161.jpg,Meningioma,Pituitary,0.5333039164543152
+braintumordata/Testing/meningioma/Te-me_0162.jpg,Meningioma,Pituitary,0.6473919153213501
+braintumordata/Testing/meningioma/Te-me_0163.jpg,Meningioma,Pituitary,0.8237447738647461
+braintumordata/Testing/meningioma/Te-me_0164.jpg,Meningioma,Pituitary,0.7773501873016357
+braintumordata/Testing/meningioma/Te-me_0165.jpg,Meningioma,Meningioma,0.5344180464744568
+braintumordata/Testing/meningioma/Te-me_0166.jpg,Meningioma,Meningioma,0.5654071569442749
+braintumordata/Testing/meningioma/Te-me_0167.jpg,Meningioma,Meningioma,0.9413818120956421
+braintumordata/Testing/meningioma/Te-me_0168.jpg,Meningioma,Meningioma,0.8711909651756287
+braintumordata/Testing/meningioma/Te-me_0169.jpg,Meningioma,Meningioma,0.6318767666816711
+braintumordata/Testing/meningioma/Te-me_0170.jpg,Meningioma,Pituitary,0.5739303827285767
+braintumordata/Testing/meningioma/Te-me_0171.jpg,Meningioma,Meningioma,0.5715994238853455
+braintumordata/Testing/meningioma/Te-me_0172.jpg,Meningioma,Meningioma,0.9129322171211243
+braintumordata/Testing/meningioma/Te-me_0173.jpg,Meningioma,Meningioma,0.48567405343055725
+braintumordata/Testing/meningioma/Te-me_0174.jpg,Meningioma,Meningioma,0.8978816866874695
+braintumordata/Testing/meningioma/Te-me_0175.jpg,Meningioma,Meningioma,0.8794885873794556
+braintumordata/Testing/meningioma/Te-me_0176.jpg,Meningioma,Meningioma,0.8762468099594116
+braintumordata/Testing/meningioma/Te-me_0177.jpg,Meningioma,Meningioma,0.8262362480163574
+braintumordata/Testing/meningioma/Te-me_0178.jpg,Meningioma,Glioma,0.9331164956092834
+braintumordata/Testing/meningioma/Te-me_0179.jpg,Meningioma,Pituitary,0.4168287515640259
+braintumordata/Testing/meningioma/Te-me_0180.jpg,Meningioma,Meningioma,0.7701219320297241
+braintumordata/Testing/meningioma/Te-me_0181.jpg,Meningioma,Glioma,0.5190603137016296
+braintumordata/Testing/meningioma/Te-me_0182.jpg,Meningioma,Meningioma,0.612402081489563
+braintumordata/Testing/meningioma/Te-me_0183.jpg,Meningioma,Meningioma,0.8168920278549194
+braintumordata/Testing/meningioma/Te-me_0184.jpg,Meningioma,Meningioma,0.6748392581939697
+braintumordata/Testing/meningioma/Te-me_0185.jpg,Meningioma,Meningioma,0.9385263919830322
+braintumordata/Testing/meningioma/Te-me_0186.jpg,Meningioma,Meningioma,0.9032878875732422
+braintumordata/Testing/meningioma/Te-me_0187.jpg,Meningioma,Meningioma,0.6159229278564453
+braintumordata/Testing/meningioma/Te-me_0188.jpg,Meningioma,Glioma,0.5899438261985779
+braintumordata/Testing/meningioma/Te-me_0189.jpg,Meningioma,Pituitary,0.8273174166679382
+braintumordata/Testing/meningioma/Te-me_0190.jpg,Meningioma,Meningioma,0.6826685070991516
+braintumordata/Testing/meningioma/Te-me_0191.jpg,Meningioma,Meningioma,0.8605620265007019
+braintumordata/Testing/meningioma/Te-me_0192.jpg,Meningioma,Meningioma,0.7433531880378723
+braintumordata/Testing/meningioma/Te-me_0193.jpg,Meningioma,Pituitary,0.9426369071006775
+braintumordata/Testing/meningioma/Te-me_0194.jpg,Meningioma,Meningioma,0.8832739591598511
+braintumordata/Testing/meningioma/Te-me_0195.jpg,Meningioma,Meningioma,0.7736321687698364
+braintumordata/Testing/meningioma/Te-me_0196.jpg,Meningioma,Meningioma,0.8058300614356995
+braintumordata/Testing/meningioma/Te-me_0197.jpg,Meningioma,Meningioma,0.7188071012496948
+braintumordata/Testing/meningioma/Te-me_0198.jpg,Meningioma,Glioma,0.7471574544906616
+braintumordata/Testing/meningioma/Te-me_0199.jpg,Meningioma,Meningioma,0.8262829780578613
+braintumordata/Testing/meningioma/Te-me_0200.jpg,Meningioma,Glioma,0.3546842634677887
+braintumordata/Testing/meningioma/Te-me_0201.jpg,Meningioma,Meningioma,0.8110045790672302
+braintumordata/Testing/meningioma/Te-me_0202.jpg,Meningioma,Meningioma,0.4576793909072876
+braintumordata/Testing/meningioma/Te-me_0203.jpg,Meningioma,Pituitary,0.7444195747375488
+braintumordata/Testing/meningioma/Te-me_0204.jpg,Meningioma,Meningioma,0.36442723870277405
+braintumordata/Testing/meningioma/Te-me_0205.jpg,Meningioma,Meningioma,0.8135376572608948
+braintumordata/Testing/meningioma/Te-me_0206.jpg,Meningioma,Meningioma,0.7886731028556824
+braintumordata/Testing/meningioma/Te-me_0207.jpg,Meningioma,Pituitary,0.8087723851203918
+braintumordata/Testing/meningioma/Te-me_0208.jpg,Meningioma,Meningioma,0.8984087705612183
+braintumordata/Testing/meningioma/Te-me_0209.jpg,Meningioma,Meningioma,0.6830953359603882
+braintumordata/Testing/meningioma/Te-me_0210.jpg,Meningioma,Meningioma,0.873313844203949
+braintumordata/Testing/meningioma/Te-me_0211.jpg,Meningioma,Glioma,0.4239032566547394
+braintumordata/Testing/meningioma/Te-me_0212.jpg,Meningioma,Meningioma,0.707146167755127
+braintumordata/Testing/meningioma/Te-me_0213.jpg,Meningioma,Meningioma,0.7462060451507568
+braintumordata/Testing/meningioma/Te-me_0214.jpg,Meningioma,Pituitary,0.5104430913925171
+braintumordata/Testing/meningioma/Te-me_0215.jpg,Meningioma,Meningioma,0.7957398295402527
+braintumordata/Testing/meningioma/Te-me_0216.jpg,Meningioma,Meningioma,0.8137649297714233
+braintumordata/Testing/meningioma/Te-me_0217.jpg,Meningioma,Glioma,0.5262996554374695
+braintumordata/Testing/meningioma/Te-me_0218.jpg,Meningioma,Meningioma,0.8424854278564453
+braintumordata/Testing/meningioma/Te-me_0219.jpg,Meningioma,Meningioma,0.7545522451400757
+braintumordata/Testing/meningioma/Te-me_0220.jpg,Meningioma,Glioma,0.5245338678359985
+braintumordata/Testing/meningioma/Te-me_0221.jpg,Meningioma,Meningioma,0.6543450355529785
+braintumordata/Testing/meningioma/Te-me_0222.jpg,Meningioma,Glioma,0.585750162601471
+braintumordata/Testing/meningioma/Te-me_0223.jpg,Meningioma,Meningioma,0.5596215128898621
+braintumordata/Testing/meningioma/Te-me_0224.jpg,Meningioma,Pituitary,0.46937400102615356
+braintumordata/Testing/meningioma/Te-me_0225.jpg,Meningioma,Meningioma,0.49810096621513367
+braintumordata/Testing/meningioma/Te-me_0226.jpg,Meningioma,Meningioma,0.8152845501899719
+braintumordata/Testing/meningioma/Te-me_0227.jpg,Meningioma,Meningioma,0.5028500556945801
+braintumordata/Testing/meningioma/Te-me_0228.jpg,Meningioma,Glioma,0.5267153382301331
+braintumordata/Testing/meningioma/Te-me_0229.jpg,Meningioma,Pituitary,0.5486255884170532
+braintumordata/Testing/meningioma/Te-me_0230.jpg,Meningioma,Meningioma,0.5775569081306458
+braintumordata/Testing/meningioma/Te-me_0231.jpg,Meningioma,Pituitary,0.49018147587776184
+braintumordata/Testing/meningioma/Te-me_0232.jpg,Meningioma,Pituitary,0.36946311593055725
+braintumordata/Testing/meningioma/Te-me_0233.jpg,Meningioma,Glioma,0.45627135038375854
+braintumordata/Testing/meningioma/Te-me_0234.jpg,Meningioma,Meningioma,0.8326363563537598
+braintumordata/Testing/meningioma/Te-me_0235.jpg,Meningioma,Meningioma,0.8217813968658447
+braintumordata/Testing/meningioma/Te-me_0236.jpg,Meningioma,Glioma,0.520683228969574
+braintumordata/Testing/meningioma/Te-me_0237.jpg,Meningioma,Meningioma,0.7477137446403503
+braintumordata/Testing/meningioma/Te-me_0238.jpg,Meningioma,Meningioma,0.6129034757614136
+braintumordata/Testing/meningioma/Te-me_0239.jpg,Meningioma,Meningioma,0.5752338171005249
+braintumordata/Testing/meningioma/Te-me_0240.jpg,Meningioma,Meningioma,0.7139310240745544
+braintumordata/Testing/meningioma/Te-me_0241.jpg,Meningioma,Meningioma,0.908303439617157
+braintumordata/Testing/meningioma/Te-me_0242.jpg,Meningioma,Meningioma,0.34836289286613464
+braintumordata/Testing/meningioma/Te-me_0243.jpg,Meningioma,Meningioma,0.9021835327148438
+braintumordata/Testing/meningioma/Te-me_0244.jpg,Meningioma,Meningioma,0.6725727915763855
+braintumordata/Testing/meningioma/Te-me_0245.jpg,Meningioma,Meningioma,0.8074997663497925
+braintumordata/Testing/meningioma/Te-me_0246.jpg,Meningioma,Glioma,0.47027847170829773
+braintumordata/Testing/meningioma/Te-me_0247.jpg,Meningioma,Meningioma,0.47957682609558105
+braintumordata/Testing/meningioma/Te-me_0248.jpg,Meningioma,Pituitary,0.48521047830581665
+braintumordata/Testing/meningioma/Te-me_0249.jpg,Meningioma,Meningioma,0.8401415944099426
+braintumordata/Testing/meningioma/Te-me_0250.jpg,Meningioma,Meningioma,0.8369495272636414
+braintumordata/Testing/meningioma/Te-me_0251.jpg,Meningioma,Glioma,0.4604782462120056
+braintumordata/Testing/meningioma/Te-me_0252.jpg,Meningioma,Meningioma,0.45907485485076904
+braintumordata/Testing/meningioma/Te-me_0253.jpg,Meningioma,Pituitary,0.45212218165397644
+braintumordata/Testing/meningioma/Te-me_0254.jpg,Meningioma,Glioma,0.6838489174842834
+braintumordata/Testing/meningioma/Te-me_0255.jpg,Meningioma,Meningioma,0.7808260321617126
+braintumordata/Testing/meningioma/Te-me_0256.jpg,Meningioma,Meningioma,0.870418131351471
+braintumordata/Testing/meningioma/Te-me_0257.jpg,Meningioma,Meningioma,0.6179344654083252
+braintumordata/Testing/meningioma/Te-me_0258.jpg,Meningioma,Glioma,0.4513118863105774
+braintumordata/Testing/meningioma/Te-me_0259.jpg,Meningioma,Meningioma,0.6113371253013611
+braintumordata/Testing/meningioma/Te-me_0260.jpg,Meningioma,Glioma,0.4365566372871399
+braintumordata/Testing/meningioma/Te-me_0261.jpg,Meningioma,Meningioma,0.67181396484375
+braintumordata/Testing/meningioma/Te-me_0262.jpg,Meningioma,Glioma,0.8313269019126892
+braintumordata/Testing/meningioma/Te-me_0263.jpg,Meningioma,Meningioma,0.8272057175636292
+braintumordata/Testing/meningioma/Te-me_0264.jpg,Meningioma,Meningioma,0.8672469258308411
+braintumordata/Testing/meningioma/Te-me_0265.jpg,Meningioma,Pituitary,0.8138806819915771
+braintumordata/Testing/meningioma/Te-me_0266.jpg,Meningioma,Meningioma,0.7214727401733398
+braintumordata/Testing/meningioma/Te-me_0267.jpg,Meningioma,Glioma,0.8527238965034485
+braintumordata/Testing/meningioma/Te-me_0268.jpg,Meningioma,Glioma,0.9590428471565247
+braintumordata/Testing/meningioma/Te-me_0269.jpg,Meningioma,Meningioma,0.4232970178127289
+braintumordata/Testing/meningioma/Te-me_0270.jpg,Meningioma,Meningioma,0.9182441234588623
+braintumordata/Testing/meningioma/Te-me_0271.jpg,Meningioma,Meningioma,0.6645898818969727
+braintumordata/Testing/meningioma/Te-me_0272.jpg,Meningioma,No tumor,0.6573010683059692
+braintumordata/Testing/meningioma/Te-me_0273.jpg,Meningioma,Meningioma,0.8476471900939941
+braintumordata/Testing/meningioma/Te-me_0274.jpg,Meningioma,Meningioma,0.7602510452270508
+braintumordata/Testing/meningioma/Te-me_0275.jpg,Meningioma,Meningioma,0.8029004335403442
+braintumordata/Testing/meningioma/Te-me_0276.jpg,Meningioma,Meningioma,0.7132745385169983
+braintumordata/Testing/meningioma/Te-me_0277.jpg,Meningioma,Meningioma,0.7033179998397827
+braintumordata/Testing/meningioma/Te-me_0278.jpg,Meningioma,Meningioma,0.6539953947067261
+braintumordata/Testing/meningioma/Te-me_0279.jpg,Meningioma,Meningioma,0.5167192816734314
+braintumordata/Testing/meningioma/Te-me_0280.jpg,Meningioma,Glioma,0.6337457299232483
+braintumordata/Testing/meningioma/Te-me_0281.jpg,Meningioma,Meningioma,0.49991679191589355
+braintumordata/Testing/meningioma/Te-me_0282.jpg,Meningioma,Meningioma,0.7757413387298584
+braintumordata/Testing/meningioma/Te-me_0283.jpg,Meningioma,Glioma,0.4396022856235504
+braintumordata/Testing/meningioma/Te-me_0284.jpg,Meningioma,Pituitary,0.7153863310813904
+braintumordata/Testing/meningioma/Te-me_0285.jpg,Meningioma,Meningioma,0.4804225265979767
+braintumordata/Testing/meningioma/Te-me_0286.jpg,Meningioma,Meningioma,0.5160490870475769
+braintumordata/Testing/meningioma/Te-me_0287.jpg,Meningioma,Pituitary,0.9804853200912476
+braintumordata/Testing/meningioma/Te-me_0288.jpg,Meningioma,Meningioma,0.8737567067146301
+braintumordata/Testing/meningioma/Te-me_0289.jpg,Meningioma,Meningioma,0.926868736743927
+braintumordata/Testing/meningioma/Te-me_0290.jpg,Meningioma,Meningioma,0.810081422328949
+braintumordata/Testing/meningioma/Te-me_0291.jpg,Meningioma,Meningioma,0.8249708414077759
+braintumordata/Testing/meningioma/Te-me_0292.jpg,Meningioma,Pituitary,0.9848612546920776
+braintumordata/Testing/meningioma/Te-me_0293.jpg,Meningioma,Meningioma,0.6638436317443848
+braintumordata/Testing/meningioma/Te-me_0294.jpg,Meningioma,Meningioma,0.7548227310180664
+braintumordata/Testing/meningioma/Te-me_0295.jpg,Meningioma,Meningioma,0.7642987370491028
+braintumordata/Testing/meningioma/Te-me_0296.jpg,Meningioma,Pituitary,0.8008178472518921
+braintumordata/Testing/meningioma/Te-me_0297.jpg,Meningioma,Pituitary,0.8570499420166016
+braintumordata/Testing/meningioma/Te-me_0298.jpg,Meningioma,Glioma,0.5569592118263245
+braintumordata/Testing/meningioma/Te-me_0299.jpg,Meningioma,Pituitary,0.5846545696258545
+braintumordata/Testing/meningioma/Te-me_0300.jpg,Meningioma,Pituitary,0.7677797079086304
+braintumordata/Testing/meningioma/Te-me_0301.jpg,Meningioma,Meningioma,0.7167178988456726
+braintumordata/Testing/meningioma/Te-me_0302.jpg,Meningioma,Meningioma,0.8066232204437256
+braintumordata/Testing/meningioma/Te-me_0303.jpg,Meningioma,Meningioma,0.9069615602493286
+braintumordata/Testing/meningioma/Te-me_0304.jpg,Meningioma,Meningioma,0.45250025391578674
+braintumordata/Testing/meningioma/Te-me_0305.jpg,Meningioma,Meningioma,0.7487537264823914
+braintumordata/Testing/notumor/Te-noTr_0000.jpg,No tumor,No tumor,0.8152875900268555
+braintumordata/Testing/notumor/Te-noTr_0001.jpg,No tumor,No tumor,0.9994555115699768
+braintumordata/Testing/notumor/Te-noTr_0002.jpg,No tumor,No tumor,0.9972715973854065
+braintumordata/Testing/notumor/Te-noTr_0003.jpg,No tumor,No tumor,0.998964786529541
+braintumordata/Testing/notumor/Te-noTr_0004.jpg,No tumor,No tumor,0.9929986000061035
+braintumordata/Testing/notumor/Te-noTr_0005.jpg,No tumor,No tumor,0.514619767665863
+braintumordata/Testing/notumor/Te-noTr_0006.jpg,No tumor,No tumor,0.9703521728515625
+braintumordata/Testing/notumor/Te-noTr_0007.jpg,No tumor,No tumor,0.9786362051963806
+braintumordata/Testing/notumor/Te-noTr_0008.jpg,No tumor,No tumor,0.9734736084938049
+braintumordata/Testing/notumor/Te-noTr_0009.jpg,No tumor,No tumor,0.9437401294708252
+braintumordata/Testing/notumor/Te-no_0010.jpg,No tumor,No tumor,0.7605949640274048
+braintumordata/Testing/notumor/Te-no_0011.jpg,No tumor,No tumor,0.924373984336853
+braintumordata/Testing/notumor/Te-no_0012.jpg,No tumor,No tumor,0.9303025603294373
+braintumordata/Testing/notumor/Te-no_0013.jpg,No tumor,No tumor,0.8520035743713379
+braintumordata/Testing/notumor/Te-no_0014.jpg,No tumor,No tumor,0.76813143491745
+braintumordata/Testing/notumor/Te-no_0015.jpg,No tumor,No tumor,0.9084113240242004
+braintumordata/Testing/notumor/Te-no_0016.jpg,No tumor,No tumor,0.9761446118354797
+braintumordata/Testing/notumor/Te-no_0017.jpg,No tumor,No tumor,0.8150427341461182
+braintumordata/Testing/notumor/Te-no_0018.jpg,No tumor,No tumor,0.9981735944747925
+braintumordata/Testing/notumor/Te-no_0019.jpg,No tumor,No tumor,0.9999761581420898
+braintumordata/Testing/notumor/Te-no_0020.jpg,No tumor,Meningioma,0.3617800772190094
+braintumordata/Testing/notumor/Te-no_0021.jpg,No tumor,No tumor,0.9997912049293518
+braintumordata/Testing/notumor/Te-no_0022.jpg,No tumor,No tumor,0.8047884106636047
+braintumordata/Testing/notumor/Te-no_0023.jpg,No tumor,No tumor,0.9999568462371826
+braintumordata/Testing/notumor/Te-no_0024.jpg,No tumor,No tumor,0.7508455514907837
+braintumordata/Testing/notumor/Te-no_0025.jpg,No tumor,No tumor,0.9083318114280701
+braintumordata/Testing/notumor/Te-no_0026.jpg,No tumor,No tumor,0.9794393181800842
+braintumordata/Testing/notumor/Te-no_0027.jpg,No tumor,No tumor,0.9706647396087646
+braintumordata/Testing/notumor/Te-no_0028.jpg,No tumor,No tumor,0.9782742857933044
+braintumordata/Testing/notumor/Te-no_0029.jpg,No tumor,Glioma,0.7912804484367371
+braintumordata/Testing/notumor/Te-no_0030.jpg,No tumor,No tumor,0.7943080067634583
+braintumordata/Testing/notumor/Te-no_0031.jpg,No tumor,No tumor,0.9994555115699768
+braintumordata/Testing/notumor/Te-no_0032.jpg,No tumor,No tumor,0.9573887586593628
+braintumordata/Testing/notumor/Te-no_0033.jpg,No tumor,No tumor,0.9982951283454895
+braintumordata/Testing/notumor/Te-no_0034.jpg,No tumor,No tumor,0.7553735971450806
+braintumordata/Testing/notumor/Te-no_0035.jpg,No tumor,No tumor,0.9971197843551636
+braintumordata/Testing/notumor/Te-no_0036.jpg,No tumor,No tumor,0.9676777720451355
+braintumordata/Testing/notumor/Te-no_0037.jpg,No tumor,No tumor,0.9857997894287109
+braintumordata/Testing/notumor/Te-no_0038.jpg,No tumor,No tumor,0.9739025235176086
+braintumordata/Testing/notumor/Te-no_0039.jpg,No tumor,No tumor,0.9707919955253601
+braintumordata/Testing/notumor/Te-no_0040.jpg,No tumor,No tumor,0.8422478437423706
+braintumordata/Testing/notumor/Te-no_0041.jpg,No tumor,No tumor,0.9867556095123291
+braintumordata/Testing/notumor/Te-no_0042.jpg,No tumor,No tumor,0.9133810997009277
+braintumordata/Testing/notumor/Te-no_0043.jpg,No tumor,No tumor,0.8362183570861816
+braintumordata/Testing/notumor/Te-no_0044.jpg,No tumor,No tumor,0.9303025603294373
+braintumordata/Testing/notumor/Te-no_0045.jpg,No tumor,No tumor,0.962367594242096
+braintumordata/Testing/notumor/Te-no_0046.jpg,No tumor,No tumor,0.9794106483459473
+braintumordata/Testing/notumor/Te-no_0047.jpg,No tumor,No tumor,0.9885396361351013
+braintumordata/Testing/notumor/Te-no_0048.jpg,No tumor,No tumor,0.924373984336853
+braintumordata/Testing/notumor/Te-no_0049.jpg,No tumor,No tumor,0.9996387958526611
+braintumordata/Testing/notumor/Te-no_0050.jpg,No tumor,No tumor,0.962367594242096
+braintumordata/Testing/notumor/Te-no_0051.jpg,No tumor,No tumor,0.7835652232170105
+braintumordata/Testing/notumor/Te-no_0052.jpg,No tumor,No tumor,0.8422478437423706
+braintumordata/Testing/notumor/Te-no_0053.jpg,No tumor,No tumor,0.924373984336853
+braintumordata/Testing/notumor/Te-no_0054.jpg,No tumor,No tumor,0.962367594242096
+braintumordata/Testing/notumor/Te-no_0055.jpg,No tumor,No tumor,0.9303025603294373
+braintumordata/Testing/notumor/Te-no_0056.jpg,No tumor,No tumor,0.9913368225097656
+braintumordata/Testing/notumor/Te-no_0057.jpg,No tumor,No tumor,0.7704959511756897
+braintumordata/Testing/notumor/Te-no_0058.jpg,No tumor,No tumor,0.989541232585907
+braintumordata/Testing/notumor/Te-no_0059.jpg,No tumor,No tumor,0.9054714441299438
+braintumordata/Testing/notumor/Te-no_0060.jpg,No tumor,No tumor,0.9819456934928894
+braintumordata/Testing/notumor/Te-no_0061.jpg,No tumor,No tumor,0.9303025603294373
+braintumordata/Testing/notumor/Te-no_0062.jpg,No tumor,No tumor,0.9999761581420898
+braintumordata/Testing/notumor/Te-no_0063.jpg,No tumor,No tumor,0.7608097791671753
+braintumordata/Testing/notumor/Te-no_0064.jpg,No tumor,No tumor,0.9801747798919678
+braintumordata/Testing/notumor/Te-no_0065.jpg,No tumor,No tumor,0.7943080067634583
+braintumordata/Testing/notumor/Te-no_0066.jpg,No tumor,No tumor,0.9728642702102661
+braintumordata/Testing/notumor/Te-no_0067.jpg,No tumor,No tumor,0.9994555115699768
+braintumordata/Testing/notumor/Te-no_0068.jpg,No tumor,No tumor,0.924373984336853
+braintumordata/Testing/notumor/Te-no_0069.jpg,No tumor,Glioma,0.7912804484367371
+braintumordata/Testing/notumor/Te-no_0070.jpg,No tumor,No tumor,0.9981735944747925
+braintumordata/Testing/notumor/Te-no_0071.jpg,No tumor,No tumor,0.9859195947647095
+braintumordata/Testing/notumor/Te-no_0072.jpg,No tumor,No tumor,0.9997912049293518
+braintumordata/Testing/notumor/Te-no_0073.jpg,No tumor,No tumor,0.9999761581420898
+braintumordata/Testing/notumor/Te-no_0074.jpg,No tumor,No tumor,0.8121191263198853
+braintumordata/Testing/notumor/Te-no_0075.jpg,No tumor,No tumor,0.8047884106636047
+braintumordata/Testing/notumor/Te-no_0076.jpg,No tumor,No tumor,0.99994957447052
+braintumordata/Testing/notumor/Te-no_0077.jpg,No tumor,No tumor,0.9885396361351013
+braintumordata/Testing/notumor/Te-no_0078.jpg,No tumor,No tumor,0.9724168181419373
+braintumordata/Testing/notumor/Te-no_0079.jpg,No tumor,No tumor,0.7441885471343994
+braintumordata/Testing/notumor/Te-no_0080.jpg,No tumor,No tumor,0.9999891519546509
+braintumordata/Testing/notumor/Te-no_0081.jpg,No tumor,No tumor,0.9971197843551636
+braintumordata/Testing/notumor/Te-no_0082.jpg,No tumor,No tumor,0.988704264163971
+braintumordata/Testing/notumor/Te-no_0083.jpg,No tumor,No tumor,0.9993312358856201
+braintumordata/Testing/notumor/Te-no_0084.jpg,No tumor,No tumor,0.9994555115699768
+braintumordata/Testing/notumor/Te-no_0085.jpg,No tumor,No tumor,0.8563864231109619
+braintumordata/Testing/notumor/Te-no_0086.jpg,No tumor,No tumor,0.9570918083190918
+braintumordata/Testing/notumor/Te-no_0087.jpg,No tumor,No tumor,0.924373984336853
+braintumordata/Testing/notumor/Te-no_0088.jpg,No tumor,No tumor,0.9786362051963806
+braintumordata/Testing/notumor/Te-no_0089.jpg,No tumor,No tumor,0.9968520998954773
+braintumordata/Testing/notumor/Te-no_0090.jpg,No tumor,No tumor,0.930454432964325
+braintumordata/Testing/notumor/Te-no_0091.jpg,No tumor,No tumor,0.9977672100067139
+braintumordata/Testing/notumor/Te-no_0092.jpg,No tumor,No tumor,0.9386106133460999
+braintumordata/Testing/notumor/Te-no_0093.jpg,No tumor,No tumor,0.9993312358856201
+braintumordata/Testing/notumor/Te-no_0094.jpg,No tumor,No tumor,0.9978274703025818
+braintumordata/Testing/notumor/Te-no_0095.jpg,No tumor,No tumor,0.9982300400733948
+braintumordata/Testing/notumor/Te-no_0096.jpg,No tumor,No tumor,0.9297725558280945
+braintumordata/Testing/notumor/Te-no_0097.jpg,No tumor,No tumor,0.9968691468238831
+braintumordata/Testing/notumor/Te-no_0098.jpg,No tumor,Pituitary,0.618847668170929
+braintumordata/Testing/notumor/Te-no_0099.jpg,No tumor,No tumor,0.9988266825675964
+braintumordata/Testing/notumor/Te-no_0100.jpg,No tumor,No tumor,0.7232286334037781
+braintumordata/Testing/notumor/Te-no_0101.jpg,No tumor,No tumor,0.9236192107200623
+braintumordata/Testing/notumor/Te-no_0102.jpg,No tumor,No tumor,0.9136991500854492
+braintumordata/Testing/notumor/Te-no_0103.jpg,No tumor,No tumor,0.996435284614563
+braintumordata/Testing/notumor/Te-no_0104.jpg,No tumor,No tumor,0.9435063004493713
+braintumordata/Testing/notumor/Te-no_0105.jpg,No tumor,No tumor,0.9320023059844971
+braintumordata/Testing/notumor/Te-no_0106.jpg,No tumor,No tumor,0.924701988697052
+braintumordata/Testing/notumor/Te-no_0107.jpg,No tumor,No tumor,0.9998650550842285
+braintumordata/Testing/notumor/Te-no_0108.jpg,No tumor,No tumor,0.9970229268074036
+braintumordata/Testing/notumor/Te-no_0109.jpg,No tumor,No tumor,0.9996274709701538
+braintumordata/Testing/notumor/Te-no_0110.jpg,No tumor,No tumor,0.99237060546875
+braintumordata/Testing/notumor/Te-no_0111.jpg,No tumor,No tumor,0.9958578944206238
+braintumordata/Testing/notumor/Te-no_0112.jpg,No tumor,No tumor,0.9837080836296082
+braintumordata/Testing/notumor/Te-no_0113.jpg,No tumor,No tumor,0.9627540707588196
+braintumordata/Testing/notumor/Te-no_0114.jpg,No tumor,No tumor,0.9898830056190491
+braintumordata/Testing/notumor/Te-no_0115.jpg,No tumor,No tumor,0.9235692024230957
+braintumordata/Testing/notumor/Te-no_0116.jpg,No tumor,No tumor,0.9837208986282349
+braintumordata/Testing/notumor/Te-no_0117.jpg,No tumor,No tumor,0.9741916060447693
+braintumordata/Testing/notumor/Te-no_0118.jpg,No tumor,No tumor,0.8530840277671814
+braintumordata/Testing/notumor/Te-no_0119.jpg,No tumor,No tumor,0.9999504089355469
+braintumordata/Testing/notumor/Te-no_0120.jpg,No tumor,No tumor,0.9935775399208069
+braintumordata/Testing/notumor/Te-no_0121.jpg,No tumor,No tumor,0.9158858060836792
+braintumordata/Testing/notumor/Te-no_0122.jpg,No tumor,No tumor,0.9399555325508118
+braintumordata/Testing/notumor/Te-no_0123.jpg,No tumor,No tumor,0.9889186024665833
+braintumordata/Testing/notumor/Te-no_0124.jpg,No tumor,No tumor,0.9999775886535645
+braintumordata/Testing/notumor/Te-no_0125.jpg,No tumor,No tumor,0.9999685287475586
+braintumordata/Testing/notumor/Te-no_0126.jpg,No tumor,No tumor,0.9999759197235107
+braintumordata/Testing/notumor/Te-no_0127.jpg,No tumor,No tumor,0.8838683366775513
+braintumordata/Testing/notumor/Te-no_0128.jpg,No tumor,No tumor,0.9184024333953857
+braintumordata/Testing/notumor/Te-no_0129.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0130.jpg,No tumor,No tumor,0.9998639822006226
+braintumordata/Testing/notumor/Te-no_0131.jpg,No tumor,No tumor,0.993834376335144
+braintumordata/Testing/notumor/Te-no_0132.jpg,No tumor,No tumor,0.9999915361404419
+braintumordata/Testing/notumor/Te-no_0133.jpg,No tumor,No tumor,0.999976396560669
+braintumordata/Testing/notumor/Te-no_0134.jpg,No tumor,No tumor,0.9584222435951233
+braintumordata/Testing/notumor/Te-no_0135.jpg,No tumor,No tumor,0.9004427790641785
+braintumordata/Testing/notumor/Te-no_0136.jpg,No tumor,No tumor,0.9967092275619507
+braintumordata/Testing/notumor/Te-no_0137.jpg,No tumor,No tumor,0.9998633861541748
+braintumordata/Testing/notumor/Te-no_0138.jpg,No tumor,No tumor,0.9843480587005615
+braintumordata/Testing/notumor/Te-no_0139.jpg,No tumor,No tumor,0.999920129776001
+braintumordata/Testing/notumor/Te-no_0140.jpg,No tumor,No tumor,0.9995110034942627
+braintumordata/Testing/notumor/Te-no_0141.jpg,No tumor,No tumor,0.9999500513076782
+braintumordata/Testing/notumor/Te-no_0142.jpg,No tumor,No tumor,0.9999938011169434
+braintumordata/Testing/notumor/Te-no_0143.jpg,No tumor,No tumor,0.9991256594657898
+braintumordata/Testing/notumor/Te-no_0144.jpg,No tumor,No tumor,0.999996542930603
+braintumordata/Testing/notumor/Te-no_0145.jpg,No tumor,No tumor,0.9999102354049683
+braintumordata/Testing/notumor/Te-no_0146.jpg,No tumor,No tumor,0.9999381303787231
+braintumordata/Testing/notumor/Te-no_0147.jpg,No tumor,No tumor,0.9999752044677734
+braintumordata/Testing/notumor/Te-no_0148.jpg,No tumor,No tumor,0.9356926083564758
+braintumordata/Testing/notumor/Te-no_0149.jpg,No tumor,No tumor,0.949153482913971
+braintumordata/Testing/notumor/Te-no_0150.jpg,No tumor,No tumor,0.9810377955436707
+braintumordata/Testing/notumor/Te-no_0151.jpg,No tumor,No tumor,0.9994049072265625
+braintumordata/Testing/notumor/Te-no_0152.jpg,No tumor,No tumor,0.9985864162445068
+braintumordata/Testing/notumor/Te-no_0153.jpg,No tumor,No tumor,0.9780097603797913
+braintumordata/Testing/notumor/Te-no_0154.jpg,No tumor,No tumor,0.9836938977241516
+braintumordata/Testing/notumor/Te-no_0155.jpg,No tumor,No tumor,0.9834966659545898
+braintumordata/Testing/notumor/Te-no_0156.jpg,No tumor,No tumor,0.9735864996910095
+braintumordata/Testing/notumor/Te-no_0157.jpg,No tumor,No tumor,0.9914364218711853
+braintumordata/Testing/notumor/Te-no_0158.jpg,No tumor,No tumor,0.9517397880554199
+braintumordata/Testing/notumor/Te-no_0159.jpg,No tumor,No tumor,0.999852180480957
+braintumordata/Testing/notumor/Te-no_0160.jpg,No tumor,No tumor,0.9989295601844788
+braintumordata/Testing/notumor/Te-no_0161.jpg,No tumor,No tumor,0.9435579180717468
+braintumordata/Testing/notumor/Te-no_0162.jpg,No tumor,No tumor,0.9989251494407654
+braintumordata/Testing/notumor/Te-no_0163.jpg,No tumor,No tumor,0.9999709129333496
+braintumordata/Testing/notumor/Te-no_0164.jpg,No tumor,No tumor,0.9999253749847412
+braintumordata/Testing/notumor/Te-no_0165.jpg,No tumor,No tumor,0.9992002844810486
+braintumordata/Testing/notumor/Te-no_0166.jpg,No tumor,No tumor,0.9293035864830017
+braintumordata/Testing/notumor/Te-no_0167.jpg,No tumor,No tumor,0.9989801049232483
+braintumordata/Testing/notumor/Te-no_0168.jpg,No tumor,No tumor,0.9941056966781616
+braintumordata/Testing/notumor/Te-no_0169.jpg,No tumor,No tumor,0.9982421398162842
+braintumordata/Testing/notumor/Te-no_0170.jpg,No tumor,No tumor,0.9998400211334229
+braintumordata/Testing/notumor/Te-no_0171.jpg,No tumor,No tumor,0.9841808080673218
+braintumordata/Testing/notumor/Te-no_0172.jpg,No tumor,No tumor,0.972824215888977
+braintumordata/Testing/notumor/Te-no_0173.jpg,No tumor,No tumor,0.9956733584403992
+braintumordata/Testing/notumor/Te-no_0174.jpg,No tumor,No tumor,0.9640777111053467
+braintumordata/Testing/notumor/Te-no_0175.jpg,No tumor,No tumor,0.9825504422187805
+braintumordata/Testing/notumor/Te-no_0176.jpg,No tumor,No tumor,0.9356400370597839
+braintumordata/Testing/notumor/Te-no_0177.jpg,No tumor,No tumor,0.9992832541465759
+braintumordata/Testing/notumor/Te-no_0178.jpg,No tumor,No tumor,0.9972968697547913
+braintumordata/Testing/notumor/Te-no_0179.jpg,No tumor,No tumor,0.9998489618301392
+braintumordata/Testing/notumor/Te-no_0180.jpg,No tumor,No tumor,0.995430588722229
+braintumordata/Testing/notumor/Te-no_0181.jpg,No tumor,No tumor,0.9916259050369263
+braintumordata/Testing/notumor/Te-no_0182.jpg,No tumor,No tumor,0.9602646827697754
+braintumordata/Testing/notumor/Te-no_0183.jpg,No tumor,No tumor,0.9928942322731018
+braintumordata/Testing/notumor/Te-no_0184.jpg,No tumor,No tumor,0.9898456335067749
+braintumordata/Testing/notumor/Te-no_0185.jpg,No tumor,No tumor,0.9996964931488037
+braintumordata/Testing/notumor/Te-no_0186.jpg,No tumor,No tumor,0.9836883544921875
+braintumordata/Testing/notumor/Te-no_0187.jpg,No tumor,No tumor,0.8672117590904236
+braintumordata/Testing/notumor/Te-no_0188.jpg,No tumor,No tumor,0.9292709827423096
+braintumordata/Testing/notumor/Te-no_0189.jpg,No tumor,No tumor,0.9920939803123474
+braintumordata/Testing/notumor/Te-no_0190.jpg,No tumor,No tumor,0.9998794794082642
+braintumordata/Testing/notumor/Te-no_0191.jpg,No tumor,No tumor,0.9328336119651794
+braintumordata/Testing/notumor/Te-no_0192.jpg,No tumor,No tumor,0.9998921155929565
+braintumordata/Testing/notumor/Te-no_0193.jpg,No tumor,No tumor,0.7858544588088989
+braintumordata/Testing/notumor/Te-no_0194.jpg,No tumor,No tumor,0.9979821443557739
+braintumordata/Testing/notumor/Te-no_0195.jpg,No tumor,No tumor,0.9999945163726807
+braintumordata/Testing/notumor/Te-no_0196.jpg,No tumor,No tumor,0.9474289417266846
+braintumordata/Testing/notumor/Te-no_0197.jpg,No tumor,No tumor,0.9998038411140442
+braintumordata/Testing/notumor/Te-no_0198.jpg,No tumor,No tumor,0.9034462571144104
+braintumordata/Testing/notumor/Te-no_0199.jpg,No tumor,No tumor,0.9925459027290344
+braintumordata/Testing/notumor/Te-no_0200.jpg,No tumor,No tumor,0.9993577599525452
+braintumordata/Testing/notumor/Te-no_0201.jpg,No tumor,No tumor,0.9986667633056641
+braintumordata/Testing/notumor/Te-no_0202.jpg,No tumor,No tumor,0.9999960660934448
+braintumordata/Testing/notumor/Te-no_0203.jpg,No tumor,No tumor,0.9999600648880005
+braintumordata/Testing/notumor/Te-no_0204.jpg,No tumor,No tumor,0.9187975525856018
+braintumordata/Testing/notumor/Te-no_0205.jpg,No tumor,No tumor,0.9913650751113892
+braintumordata/Testing/notumor/Te-no_0206.jpg,No tumor,No tumor,0.9336352348327637
+braintumordata/Testing/notumor/Te-no_0207.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0208.jpg,No tumor,No tumor,0.9669641256332397
+braintumordata/Testing/notumor/Te-no_0209.jpg,No tumor,No tumor,0.9979361295700073
+braintumordata/Testing/notumor/Te-no_0210.jpg,No tumor,No tumor,0.9965881109237671
+braintumordata/Testing/notumor/Te-no_0211.jpg,No tumor,No tumor,0.8810532093048096
+braintumordata/Testing/notumor/Te-no_0212.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0213.jpg,No tumor,No tumor,0.9999840259552002
+braintumordata/Testing/notumor/Te-no_0214.jpg,No tumor,No tumor,0.9999228715896606
+braintumordata/Testing/notumor/Te-no_0215.jpg,No tumor,No tumor,0.9998807907104492
+braintumordata/Testing/notumor/Te-no_0216.jpg,No tumor,No tumor,0.9507744908332825
+braintumordata/Testing/notumor/Te-no_0217.jpg,No tumor,No tumor,0.9999693632125854
+braintumordata/Testing/notumor/Te-no_0218.jpg,No tumor,No tumor,0.9817013740539551
+braintumordata/Testing/notumor/Te-no_0219.jpg,No tumor,No tumor,0.9973203539848328
+braintumordata/Testing/notumor/Te-no_0220.jpg,No tumor,No tumor,0.9999877214431763
+braintumordata/Testing/notumor/Te-no_0221.jpg,No tumor,No tumor,0.9847114086151123
+braintumordata/Testing/notumor/Te-no_0222.jpg,No tumor,No tumor,0.9139795899391174
+braintumordata/Testing/notumor/Te-no_0223.jpg,No tumor,No tumor,0.9976509213447571
+braintumordata/Testing/notumor/Te-no_0224.jpg,No tumor,No tumor,0.997239351272583
+braintumordata/Testing/notumor/Te-no_0225.jpg,No tumor,No tumor,0.9956679344177246
+braintumordata/Testing/notumor/Te-no_0226.jpg,No tumor,No tumor,0.9845089316368103
+braintumordata/Testing/notumor/Te-no_0227.jpg,No tumor,No tumor,0.9987564086914062
+braintumordata/Testing/notumor/Te-no_0228.jpg,No tumor,No tumor,0.8064528703689575
+braintumordata/Testing/notumor/Te-no_0229.jpg,No tumor,No tumor,0.9118180871009827
+braintumordata/Testing/notumor/Te-no_0230.jpg,No tumor,No tumor,0.9976915121078491
+braintumordata/Testing/notumor/Te-no_0231.jpg,No tumor,No tumor,0.981939971446991
+braintumordata/Testing/notumor/Te-no_0232.jpg,No tumor,No tumor,0.9984064698219299
+braintumordata/Testing/notumor/Te-no_0233.jpg,No tumor,No tumor,0.9951770305633545
+braintumordata/Testing/notumor/Te-no_0234.jpg,No tumor,No tumor,0.9999744892120361
+braintumordata/Testing/notumor/Te-no_0235.jpg,No tumor,No tumor,0.9931687116622925
+braintumordata/Testing/notumor/Te-no_0236.jpg,No tumor,Pituitary,0.936506986618042
+braintumordata/Testing/notumor/Te-no_0237.jpg,No tumor,No tumor,0.9271183013916016
+braintumordata/Testing/notumor/Te-no_0238.jpg,No tumor,No tumor,0.7702246308326721
+braintumordata/Testing/notumor/Te-no_0239.jpg,No tumor,No tumor,0.9888840913772583
+braintumordata/Testing/notumor/Te-no_0240.jpg,No tumor,No tumor,0.9991003274917603
+braintumordata/Testing/notumor/Te-no_0241.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0242.jpg,No tumor,No tumor,0.9999966621398926
+braintumordata/Testing/notumor/Te-no_0243.jpg,No tumor,No tumor,0.994814395904541
+braintumordata/Testing/notumor/Te-no_0244.jpg,No tumor,No tumor,0.9989350438117981
+braintumordata/Testing/notumor/Te-no_0245.jpg,No tumor,No tumor,0.9972937703132629
+braintumordata/Testing/notumor/Te-no_0246.jpg,No tumor,No tumor,0.9650466442108154
+braintumordata/Testing/notumor/Te-no_0247.jpg,No tumor,No tumor,0.9874245524406433
+braintumordata/Testing/notumor/Te-no_0248.jpg,No tumor,No tumor,0.9972957968711853
+braintumordata/Testing/notumor/Te-no_0249.jpg,No tumor,No tumor,0.9994681477546692
+braintumordata/Testing/notumor/Te-no_0250.jpg,No tumor,No tumor,0.9895126223564148
+braintumordata/Testing/notumor/Te-no_0251.jpg,No tumor,No tumor,0.9934868812561035
+braintumordata/Testing/notumor/Te-no_0252.jpg,No tumor,No tumor,0.9951830506324768
+braintumordata/Testing/notumor/Te-no_0253.jpg,No tumor,No tumor,0.9999843835830688
+braintumordata/Testing/notumor/Te-no_0254.jpg,No tumor,No tumor,0.9956034421920776
+braintumordata/Testing/notumor/Te-no_0255.jpg,No tumor,No tumor,0.939801812171936
+braintumordata/Testing/notumor/Te-no_0256.jpg,No tumor,No tumor,0.9996206760406494
+braintumordata/Testing/notumor/Te-no_0257.jpg,No tumor,No tumor,0.9899280667304993
+braintumordata/Testing/notumor/Te-no_0258.jpg,No tumor,No tumor,0.9999545812606812
+braintumordata/Testing/notumor/Te-no_0259.jpg,No tumor,No tumor,0.9999924898147583
+braintumordata/Testing/notumor/Te-no_0260.jpg,No tumor,No tumor,0.9999741315841675
+braintumordata/Testing/notumor/Te-no_0261.jpg,No tumor,No tumor,0.9465391635894775
+braintumordata/Testing/notumor/Te-no_0262.jpg,No tumor,No tumor,0.9971973896026611
+braintumordata/Testing/notumor/Te-no_0263.jpg,No tumor,No tumor,0.9999666213989258
+braintumordata/Testing/notumor/Te-no_0264.jpg,No tumor,No tumor,0.9901881814002991
+braintumordata/Testing/notumor/Te-no_0265.jpg,No tumor,No tumor,0.9999994039535522
+braintumordata/Testing/notumor/Te-no_0266.jpg,No tumor,No tumor,0.9532210230827332
+braintumordata/Testing/notumor/Te-no_0267.jpg,No tumor,No tumor,0.978976309299469
+braintumordata/Testing/notumor/Te-no_0268.jpg,No tumor,No tumor,0.97431880235672
+braintumordata/Testing/notumor/Te-no_0269.jpg,No tumor,No tumor,0.999923825263977
+braintumordata/Testing/notumor/Te-no_0270.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0271.jpg,No tumor,No tumor,0.985025942325592
+braintumordata/Testing/notumor/Te-no_0272.jpg,No tumor,No tumor,0.9333395957946777
+braintumordata/Testing/notumor/Te-no_0273.jpg,No tumor,No tumor,0.9995953440666199
+braintumordata/Testing/notumor/Te-no_0274.jpg,No tumor,No tumor,0.9999607801437378
+braintumordata/Testing/notumor/Te-no_0275.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0276.jpg,No tumor,No tumor,0.9999638795852661
+braintumordata/Testing/notumor/Te-no_0277.jpg,No tumor,No tumor,0.9445837140083313
+braintumordata/Testing/notumor/Te-no_0278.jpg,No tumor,No tumor,0.9947842955589294
+braintumordata/Testing/notumor/Te-no_0279.jpg,No tumor,No tumor,0.9933034777641296
+braintumordata/Testing/notumor/Te-no_0280.jpg,No tumor,No tumor,0.987093985080719
+braintumordata/Testing/notumor/Te-no_0281.jpg,No tumor,No tumor,0.9926857948303223
+braintumordata/Testing/notumor/Te-no_0282.jpg,No tumor,No tumor,0.9981614947319031
+braintumordata/Testing/notumor/Te-no_0283.jpg,No tumor,No tumor,0.9994230270385742
+braintumordata/Testing/notumor/Te-no_0284.jpg,No tumor,No tumor,0.9999281167984009
+braintumordata/Testing/notumor/Te-no_0285.jpg,No tumor,No tumor,0.9999972581863403
+braintumordata/Testing/notumor/Te-no_0286.jpg,No tumor,No tumor,0.9342607855796814
+braintumordata/Testing/notumor/Te-no_0287.jpg,No tumor,No tumor,0.9992468357086182
+braintumordata/Testing/notumor/Te-no_0288.jpg,No tumor,No tumor,0.9955437779426575
+braintumordata/Testing/notumor/Te-no_0289.jpg,No tumor,No tumor,0.9991480112075806
+braintumordata/Testing/notumor/Te-no_0290.jpg,No tumor,No tumor,0.9998879432678223
+braintumordata/Testing/notumor/Te-no_0291.jpg,No tumor,No tumor,0.9784284234046936
+braintumordata/Testing/notumor/Te-no_0292.jpg,No tumor,No tumor,0.9809040427207947
+braintumordata/Testing/notumor/Te-no_0293.jpg,No tumor,No tumor,0.9957523345947266
+braintumordata/Testing/notumor/Te-no_0294.jpg,No tumor,No tumor,0.9304878115653992
+braintumordata/Testing/notumor/Te-no_0295.jpg,No tumor,No tumor,0.9993767142295837
+braintumordata/Testing/notumor/Te-no_0296.jpg,No tumor,No tumor,0.9647315144538879
+braintumordata/Testing/notumor/Te-no_0297.jpg,No tumor,No tumor,0.9964906573295593
+braintumordata/Testing/notumor/Te-no_0298.jpg,No tumor,No tumor,0.9059048295021057
+braintumordata/Testing/notumor/Te-no_0299.jpg,No tumor,No tumor,0.9996656179428101
+braintumordata/Testing/notumor/Te-no_0300.jpg,No tumor,No tumor,0.9646229147911072
+braintumordata/Testing/notumor/Te-no_0301.jpg,No tumor,No tumor,0.989584743976593
+braintumordata/Testing/notumor/Te-no_0302.jpg,No tumor,No tumor,0.9931079149246216
+braintumordata/Testing/notumor/Te-no_0303.jpg,No tumor,No tumor,0.9927316308021545
+braintumordata/Testing/notumor/Te-no_0304.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0305.jpg,No tumor,No tumor,0.9709016680717468
+braintumordata/Testing/notumor/Te-no_0306.jpg,No tumor,No tumor,0.9975224137306213
+braintumordata/Testing/notumor/Te-no_0307.jpg,No tumor,No tumor,0.8914528489112854
+braintumordata/Testing/notumor/Te-no_0308.jpg,No tumor,No tumor,0.9999790191650391
+braintumordata/Testing/notumor/Te-no_0309.jpg,No tumor,No tumor,0.9999979734420776
+braintumordata/Testing/notumor/Te-no_0310.jpg,No tumor,No tumor,0.9999464750289917
+braintumordata/Testing/notumor/Te-no_0311.jpg,No tumor,No tumor,0.8805625438690186
+braintumordata/Testing/notumor/Te-no_0312.jpg,No tumor,No tumor,0.9885375499725342
+braintumordata/Testing/notumor/Te-no_0313.jpg,No tumor,No tumor,0.9997101426124573
+braintumordata/Testing/notumor/Te-no_0314.jpg,No tumor,No tumor,0.9922825694084167
+braintumordata/Testing/notumor/Te-no_0315.jpg,No tumor,No tumor,0.8671103119850159
+braintumordata/Testing/notumor/Te-no_0316.jpg,No tumor,No tumor,0.9891918301582336
+braintumordata/Testing/notumor/Te-no_0317.jpg,No tumor,No tumor,0.9998741149902344
+braintumordata/Testing/notumor/Te-no_0318.jpg,No tumor,No tumor,0.9983231425285339
+braintumordata/Testing/notumor/Te-no_0319.jpg,No tumor,No tumor,0.9550731182098389
+braintumordata/Testing/notumor/Te-no_0320.jpg,No tumor,No tumor,0.9442819356918335
+braintumordata/Testing/notumor/Te-no_0321.jpg,No tumor,No tumor,0.9758332371711731
+braintumordata/Testing/notumor/Te-no_0322.jpg,No tumor,No tumor,0.9039751291275024
+braintumordata/Testing/notumor/Te-no_0323.jpg,No tumor,No tumor,0.9544289708137512
+braintumordata/Testing/notumor/Te-no_0324.jpg,No tumor,No tumor,0.9994662404060364
+braintumordata/Testing/notumor/Te-no_0325.jpg,No tumor,No tumor,0.9797219038009644
+braintumordata/Testing/notumor/Te-no_0326.jpg,No tumor,No tumor,1.0
+braintumordata/Testing/notumor/Te-no_0327.jpg,No tumor,No tumor,0.9873534440994263
+braintumordata/Testing/notumor/Te-no_0328.jpg,No tumor,No tumor,0.8595799207687378
+braintumordata/Testing/notumor/Te-no_0329.jpg,No tumor,No tumor,0.999997615814209
+braintumordata/Testing/notumor/Te-no_0330.jpg,No tumor,No tumor,0.9524364471435547
+braintumordata/Testing/notumor/Te-no_0331.jpg,No tumor,No tumor,0.9999945163726807
+braintumordata/Testing/notumor/Te-no_0332.jpg,No tumor,No tumor,0.9230325818061829
+braintumordata/Testing/notumor/Te-no_0333.jpg,No tumor,No tumor,0.9991790652275085
+braintumordata/Testing/notumor/Te-no_0334.jpg,No tumor,No tumor,0.9841184616088867
+braintumordata/Testing/notumor/Te-no_0335.jpg,No tumor,No tumor,0.9999451637268066
+braintumordata/Testing/notumor/Te-no_0336.jpg,No tumor,No tumor,0.8629295229911804
+braintumordata/Testing/notumor/Te-no_0337.jpg,No tumor,No tumor,0.9932956099510193
+braintumordata/Testing/notumor/Te-no_0338.jpg,No tumor,No tumor,0.9994363188743591
+braintumordata/Testing/notumor/Te-no_0339.jpg,No tumor,No tumor,0.999946117401123
+braintumordata/Testing/notumor/Te-no_0340.jpg,No tumor,No tumor,0.9999098777770996
+braintumordata/Testing/notumor/Te-no_0341.jpg,No tumor,No tumor,0.939922571182251
+braintumordata/Testing/notumor/Te-no_0342.jpg,No tumor,No tumor,0.9064176678657532
+braintumordata/Testing/notumor/Te-no_0343.jpg,No tumor,No tumor,0.9999656677246094
+braintumordata/Testing/notumor/Te-no_0344.jpg,No tumor,No tumor,0.947054386138916
+braintumordata/Testing/notumor/Te-no_0345.jpg,No tumor,No tumor,0.9972570538520813
+braintumordata/Testing/notumor/Te-no_0346.jpg,No tumor,No tumor,0.9937320351600647
+braintumordata/Testing/notumor/Te-no_0347.jpg,No tumor,No tumor,0.9999765157699585
+braintumordata/Testing/notumor/Te-no_0348.jpg,No tumor,No tumor,0.9966728687286377
+braintumordata/Testing/notumor/Te-no_0349.jpg,No tumor,No tumor,0.9499318599700928
+braintumordata/Testing/notumor/Te-no_0350.jpg,No tumor,No tumor,0.8803495764732361
+braintumordata/Testing/notumor/Te-no_0351.jpg,No tumor,No tumor,0.9999997615814209
+braintumordata/Testing/notumor/Te-no_0352.jpg,No tumor,No tumor,0.9993422627449036
+braintumordata/Testing/notumor/Te-no_0353.jpg,No tumor,No tumor,0.9997835755348206
+braintumordata/Testing/notumor/Te-no_0354.jpg,No tumor,No tumor,0.9349167943000793
+braintumordata/Testing/notumor/Te-no_0355.jpg,No tumor,No tumor,0.9988917708396912
+braintumordata/Testing/notumor/Te-no_0356.jpg,No tumor,No tumor,0.7847838997840881
+braintumordata/Testing/notumor/Te-no_0357.jpg,No tumor,No tumor,0.9980906844139099
+braintumordata/Testing/notumor/Te-no_0358.jpg,No tumor,No tumor,0.995716392993927
+braintumordata/Testing/notumor/Te-no_0359.jpg,No tumor,No tumor,0.9383770227432251
+braintumordata/Testing/notumor/Te-no_0360.jpg,No tumor,Pituitary,0.9445388317108154
+braintumordata/Testing/notumor/Te-no_0361.jpg,No tumor,No tumor,0.9988380074501038
+braintumordata/Testing/notumor/Te-no_0362.jpg,No tumor,No tumor,0.9798572659492493
+braintumordata/Testing/notumor/Te-no_0363.jpg,No tumor,No tumor,0.9999306201934814
+braintumordata/Testing/notumor/Te-no_0364.jpg,No tumor,No tumor,0.9997406601905823
+braintumordata/Testing/notumor/Te-no_0365.jpg,No tumor,No tumor,0.999725878238678
+braintumordata/Testing/notumor/Te-no_0366.jpg,No tumor,No tumor,0.989704430103302
+braintumordata/Testing/notumor/Te-no_0367.jpg,No tumor,No tumor,0.9960036873817444
+braintumordata/Testing/notumor/Te-no_0368.jpg,No tumor,No tumor,0.9964699745178223
+braintumordata/Testing/notumor/Te-no_0369.jpg,No tumor,No tumor,0.999982476234436
+braintumordata/Testing/notumor/Te-no_0370.jpg,No tumor,No tumor,0.9967058300971985
+braintumordata/Testing/notumor/Te-no_0371.jpg,No tumor,No tumor,0.9991058707237244
+braintumordata/Testing/notumor/Te-no_0372.jpg,No tumor,No tumor,0.9632182717323303
+braintumordata/Testing/notumor/Te-no_0373.jpg,No tumor,No tumor,0.9999954700469971
+braintumordata/Testing/notumor/Te-no_0374.jpg,No tumor,No tumor,0.999972939491272
+braintumordata/Testing/notumor/Te-no_0375.jpg,No tumor,No tumor,0.7919104695320129
+braintumordata/Testing/notumor/Te-no_0376.jpg,No tumor,No tumor,0.9087387919425964
+braintumordata/Testing/notumor/Te-no_0377.jpg,No tumor,No tumor,0.9304153323173523
+braintumordata/Testing/notumor/Te-no_0378.jpg,No tumor,No tumor,0.9827532768249512
+braintumordata/Testing/notumor/Te-no_0379.jpg,No tumor,No tumor,0.9991251826286316
+braintumordata/Testing/notumor/Te-no_0380.jpg,No tumor,No tumor,0.9955853223800659
+braintumordata/Testing/notumor/Te-no_0381.jpg,No tumor,No tumor,0.9998314380645752
+braintumordata/Testing/notumor/Te-no_0382.jpg,No tumor,No tumor,0.8401115536689758
+braintumordata/Testing/notumor/Te-no_0383.jpg,No tumor,No tumor,0.9905857443809509
+braintumordata/Testing/notumor/Te-no_0384.jpg,No tumor,No tumor,0.9875240325927734
+braintumordata/Testing/notumor/Te-no_0385.jpg,No tumor,No tumor,0.9776280522346497
+braintumordata/Testing/notumor/Te-no_0386.jpg,No tumor,No tumor,0.9999722242355347
+braintumordata/Testing/notumor/Te-no_0387.jpg,No tumor,No tumor,0.9959385395050049
+braintumordata/Testing/notumor/Te-no_0388.jpg,No tumor,No tumor,0.9999712705612183
+braintumordata/Testing/notumor/Te-no_0389.jpg,No tumor,No tumor,0.9999771118164062
+braintumordata/Testing/notumor/Te-no_0390.jpg,No tumor,No tumor,0.999972939491272
+braintumordata/Testing/notumor/Te-no_0391.jpg,No tumor,No tumor,0.9034655690193176
+braintumordata/Testing/notumor/Te-no_0392.jpg,No tumor,No tumor,0.9911224842071533
+braintumordata/Testing/notumor/Te-no_0393.jpg,No tumor,No tumor,0.9914843440055847
+braintumordata/Testing/notumor/Te-no_0394.jpg,No tumor,No tumor,0.97917240858078
+braintumordata/Testing/notumor/Te-no_0395.jpg,No tumor,No tumor,0.8644354939460754
+braintumordata/Testing/notumor/Te-no_0396.jpg,No tumor,No tumor,0.9224199652671814
+braintumordata/Testing/notumor/Te-no_0397.jpg,No tumor,No tumor,0.9968302845954895
+braintumordata/Testing/notumor/Te-no_0398.jpg,No tumor,No tumor,0.9865880608558655
+braintumordata/Testing/notumor/Te-no_0399.jpg,No tumor,No tumor,0.8601297736167908
+braintumordata/Testing/notumor/Te-no_0400.jpg,No tumor,No tumor,0.9877567291259766
+braintumordata/Testing/notumor/Te-no_0401.jpg,No tumor,No tumor,0.6226987242698669
+braintumordata/Testing/notumor/Te-no_0402.jpg,No tumor,No tumor,0.998661994934082
+braintumordata/Testing/notumor/Te-no_0403.jpg,No tumor,No tumor,0.9996417760848999
+braintumordata/Testing/notumor/Te-no_0404.jpg,No tumor,No tumor,0.9999933242797852
+braintumordata/Testing/pituitary/Te-piTr_0000.jpg,Pituitary,Pituitary,0.9224990606307983
+braintumordata/Testing/pituitary/Te-piTr_0001.jpg,Pituitary,Pituitary,0.8932986855506897
+braintumordata/Testing/pituitary/Te-piTr_0002.jpg,Pituitary,Pituitary,0.629713237285614
+braintumordata/Testing/pituitary/Te-piTr_0003.jpg,Pituitary,Pituitary,0.6481742858886719
+braintumordata/Testing/pituitary/Te-piTr_0004.jpg,Pituitary,Pituitary,0.5258378982543945
+braintumordata/Testing/pituitary/Te-piTr_0005.jpg,Pituitary,Pituitary,0.8119139671325684
+braintumordata/Testing/pituitary/Te-piTr_0006.jpg,Pituitary,Glioma,0.9840713739395142
+braintumordata/Testing/pituitary/Te-piTr_0007.jpg,Pituitary,Pituitary,0.9132633805274963
+braintumordata/Testing/pituitary/Te-piTr_0008.jpg,Pituitary,Pituitary,0.6643872857093811
+braintumordata/Testing/pituitary/Te-piTr_0009.jpg,Pituitary,Pituitary,0.9434999227523804
+braintumordata/Testing/pituitary/Te-pi_0010.jpg,Pituitary,Pituitary,0.9767504334449768
+braintumordata/Testing/pituitary/Te-pi_0011.jpg,Pituitary,Pituitary,0.8122654557228088
+braintumordata/Testing/pituitary/Te-pi_0012.jpg,Pituitary,Pituitary,0.8122788667678833
+braintumordata/Testing/pituitary/Te-pi_0013.jpg,Pituitary,Pituitary,0.5033926367759705
+braintumordata/Testing/pituitary/Te-pi_0014.jpg,Pituitary,Pituitary,0.9355723261833191
+braintumordata/Testing/pituitary/Te-pi_0015.jpg,Pituitary,Pituitary,0.8407208919525146
+braintumordata/Testing/pituitary/Te-pi_0016.jpg,Pituitary,Pituitary,0.8867853283882141
+braintumordata/Testing/pituitary/Te-pi_0017.jpg,Pituitary,Pituitary,0.9218528270721436
+braintumordata/Testing/pituitary/Te-pi_0018.jpg,Pituitary,No tumor,0.4815458655357361
+braintumordata/Testing/pituitary/Te-pi_0019.jpg,Pituitary,Pituitary,0.6583897471427917
+braintumordata/Testing/pituitary/Te-pi_0020.jpg,Pituitary,Pituitary,0.6852313280105591
+braintumordata/Testing/pituitary/Te-pi_0021.jpg,Pituitary,Pituitary,0.8922033905982971
+braintumordata/Testing/pituitary/Te-pi_0022.jpg,Pituitary,Pituitary,0.8102009892463684
+braintumordata/Testing/pituitary/Te-pi_0023.jpg,Pituitary,Pituitary,0.8379153609275818
+braintumordata/Testing/pituitary/Te-pi_0024.jpg,Pituitary,Pituitary,0.400553822517395
+braintumordata/Testing/pituitary/Te-pi_0025.jpg,Pituitary,Meningioma,0.4403962194919586
+braintumordata/Testing/pituitary/Te-pi_0026.jpg,Pituitary,Pituitary,0.9968417882919312
+braintumordata/Testing/pituitary/Te-pi_0027.jpg,Pituitary,Pituitary,0.9889330863952637
+braintumordata/Testing/pituitary/Te-pi_0028.jpg,Pituitary,Pituitary,0.9589883685112
+braintumordata/Testing/pituitary/Te-pi_0029.jpg,Pituitary,Pituitary,0.5611447691917419
+braintumordata/Testing/pituitary/Te-pi_0030.jpg,Pituitary,Pituitary,0.998965859413147
+braintumordata/Testing/pituitary/Te-pi_0031.jpg,Pituitary,Pituitary,0.9765253663063049
+braintumordata/Testing/pituitary/Te-pi_0032.jpg,Pituitary,Pituitary,0.7330305576324463
+braintumordata/Testing/pituitary/Te-pi_0033.jpg,Pituitary,Pituitary,0.7637696862220764
+braintumordata/Testing/pituitary/Te-pi_0034.jpg,Pituitary,Pituitary,0.9805729985237122
+braintumordata/Testing/pituitary/Te-pi_0035.jpg,Pituitary,Pituitary,0.8688355684280396
+braintumordata/Testing/pituitary/Te-pi_0036.jpg,Pituitary,Pituitary,0.8973463177680969
+braintumordata/Testing/pituitary/Te-pi_0037.jpg,Pituitary,Pituitary,0.7935872673988342
+braintumordata/Testing/pituitary/Te-pi_0038.jpg,Pituitary,Pituitary,0.968616247177124
+braintumordata/Testing/pituitary/Te-pi_0039.jpg,Pituitary,Pituitary,0.9655411243438721
+braintumordata/Testing/pituitary/Te-pi_0040.jpg,Pituitary,Pituitary,0.5808960795402527
+braintumordata/Testing/pituitary/Te-pi_0041.jpg,Pituitary,Pituitary,0.7120967507362366
+braintumordata/Testing/pituitary/Te-pi_0042.jpg,Pituitary,Pituitary,0.9890003204345703
+braintumordata/Testing/pituitary/Te-pi_0043.jpg,Pituitary,Pituitary,0.9112813472747803
+braintumordata/Testing/pituitary/Te-pi_0044.jpg,Pituitary,Pituitary,0.6465692520141602
+braintumordata/Testing/pituitary/Te-pi_0045.jpg,Pituitary,Pituitary,0.9443215131759644
+braintumordata/Testing/pituitary/Te-pi_0046.jpg,Pituitary,Pituitary,0.9871847033500671
+braintumordata/Testing/pituitary/Te-pi_0047.jpg,Pituitary,No tumor,0.4296315610408783
+braintumordata/Testing/pituitary/Te-pi_0048.jpg,Pituitary,Pituitary,0.9750757813453674
+braintumordata/Testing/pituitary/Te-pi_0049.jpg,Pituitary,Pituitary,0.5093507766723633
+braintumordata/Testing/pituitary/Te-pi_0050.jpg,Pituitary,Pituitary,0.9802640676498413
+braintumordata/Testing/pituitary/Te-pi_0051.jpg,Pituitary,Glioma,0.8047527074813843
+braintumordata/Testing/pituitary/Te-pi_0052.jpg,Pituitary,Pituitary,0.9974188804626465
+braintumordata/Testing/pituitary/Te-pi_0053.jpg,Pituitary,Pituitary,0.986860454082489
+braintumordata/Testing/pituitary/Te-pi_0054.jpg,Pituitary,Pituitary,0.9236509203910828
+braintumordata/Testing/pituitary/Te-pi_0055.jpg,Pituitary,Pituitary,0.995368480682373
+braintumordata/Testing/pituitary/Te-pi_0056.jpg,Pituitary,Pituitary,0.9993454813957214
+braintumordata/Testing/pituitary/Te-pi_0057.jpg,Pituitary,Pituitary,0.9976527094841003
+braintumordata/Testing/pituitary/Te-pi_0058.jpg,Pituitary,Pituitary,0.6530521512031555
+braintumordata/Testing/pituitary/Te-pi_0059.jpg,Pituitary,Pituitary,0.8293319940567017
+braintumordata/Testing/pituitary/Te-pi_0060.jpg,Pituitary,Pituitary,0.9391986727714539
+braintumordata/Testing/pituitary/Te-pi_0061.jpg,Pituitary,Pituitary,0.996990442276001
+braintumordata/Testing/pituitary/Te-pi_0062.jpg,Pituitary,Pituitary,0.9753170013427734
+braintumordata/Testing/pituitary/Te-pi_0063.jpg,Pituitary,Pituitary,0.9966979026794434
+braintumordata/Testing/pituitary/Te-pi_0064.jpg,Pituitary,Pituitary,0.842253565788269
+braintumordata/Testing/pituitary/Te-pi_0065.jpg,Pituitary,Pituitary,0.9984809756278992
+braintumordata/Testing/pituitary/Te-pi_0066.jpg,Pituitary,Pituitary,0.9969357252120972
+braintumordata/Testing/pituitary/Te-pi_0067.jpg,Pituitary,Pituitary,0.900980532169342
+braintumordata/Testing/pituitary/Te-pi_0068.jpg,Pituitary,Pituitary,0.9055278301239014
+braintumordata/Testing/pituitary/Te-pi_0069.jpg,Pituitary,Pituitary,0.7077635526657104
+braintumordata/Testing/pituitary/Te-pi_0070.jpg,Pituitary,Pituitary,0.9819087982177734
+braintumordata/Testing/pituitary/Te-pi_0071.jpg,Pituitary,Pituitary,0.930881917476654
+braintumordata/Testing/pituitary/Te-pi_0072.jpg,Pituitary,Pituitary,0.9190459251403809
+braintumordata/Testing/pituitary/Te-pi_0073.jpg,Pituitary,Pituitary,0.9805788397789001
+braintumordata/Testing/pituitary/Te-pi_0074.jpg,Pituitary,Pituitary,0.9674190878868103
+braintumordata/Testing/pituitary/Te-pi_0075.jpg,Pituitary,Pituitary,0.6746633052825928
+braintumordata/Testing/pituitary/Te-pi_0076.jpg,Pituitary,Pituitary,0.9290791153907776
+braintumordata/Testing/pituitary/Te-pi_0077.jpg,Pituitary,Pituitary,0.7567517757415771
+braintumordata/Testing/pituitary/Te-pi_0078.jpg,Pituitary,Meningioma,0.6799563765525818
+braintumordata/Testing/pituitary/Te-pi_0079.jpg,Pituitary,Meningioma,0.5040972828865051
+braintumordata/Testing/pituitary/Te-pi_0080.jpg,Pituitary,Pituitary,0.8190652132034302
+braintumordata/Testing/pituitary/Te-pi_0081.jpg,Pituitary,Pituitary,0.9406577348709106
+braintumordata/Testing/pituitary/Te-pi_0082.jpg,Pituitary,Pituitary,0.9863487482070923
+braintumordata/Testing/pituitary/Te-pi_0083.jpg,Pituitary,Pituitary,0.9901188611984253
+braintumordata/Testing/pituitary/Te-pi_0084.jpg,Pituitary,Pituitary,0.9893954396247864
+braintumordata/Testing/pituitary/Te-pi_0085.jpg,Pituitary,Pituitary,0.950690507888794
+braintumordata/Testing/pituitary/Te-pi_0086.jpg,Pituitary,Pituitary,0.5233895182609558
+braintumordata/Testing/pituitary/Te-pi_0087.jpg,Pituitary,Pituitary,0.9511862993240356
+braintumordata/Testing/pituitary/Te-pi_0088.jpg,Pituitary,Pituitary,0.9586486220359802
+braintumordata/Testing/pituitary/Te-pi_0089.jpg,Pituitary,Meningioma,0.4258487820625305
+braintumordata/Testing/pituitary/Te-pi_0090.jpg,Pituitary,Pituitary,0.9048981666564941
+braintumordata/Testing/pituitary/Te-pi_0091.jpg,Pituitary,Pituitary,0.538246214389801
+braintumordata/Testing/pituitary/Te-pi_0092.jpg,Pituitary,Glioma,0.8425731658935547
+braintumordata/Testing/pituitary/Te-pi_0093.jpg,Pituitary,Pituitary,0.5790113806724548
+braintumordata/Testing/pituitary/Te-pi_0094.jpg,Pituitary,Pituitary,0.9658837914466858
+braintumordata/Testing/pituitary/Te-pi_0095.jpg,Pituitary,Pituitary,0.500764012336731
+braintumordata/Testing/pituitary/Te-pi_0096.jpg,Pituitary,Glioma,0.4356580078601837
+braintumordata/Testing/pituitary/Te-pi_0097.jpg,Pituitary,Pituitary,0.8813230991363525
+braintumordata/Testing/pituitary/Te-pi_0098.jpg,Pituitary,Pituitary,0.8924310207366943
+braintumordata/Testing/pituitary/Te-pi_0099.jpg,Pituitary,Pituitary,0.7828123569488525
+braintumordata/Testing/pituitary/Te-pi_0100.jpg,Pituitary,Pituitary,0.6094096302986145
+braintumordata/Testing/pituitary/Te-pi_0101.jpg,Pituitary,Pituitary,0.7063233852386475
+braintumordata/Testing/pituitary/Te-pi_0102.jpg,Pituitary,Pituitary,0.9362807273864746
+braintumordata/Testing/pituitary/Te-pi_0103.jpg,Pituitary,Pituitary,0.6651418209075928
+braintumordata/Testing/pituitary/Te-pi_0104.jpg,Pituitary,Pituitary,0.7834802865982056
+braintumordata/Testing/pituitary/Te-pi_0105.jpg,Pituitary,Pituitary,0.6954622268676758
+braintumordata/Testing/pituitary/Te-pi_0106.jpg,Pituitary,Pituitary,0.8601765632629395
+braintumordata/Testing/pituitary/Te-pi_0107.jpg,Pituitary,Pituitary,0.7789602279663086
+braintumordata/Testing/pituitary/Te-pi_0108.jpg,Pituitary,Pituitary,0.7443437576293945
+braintumordata/Testing/pituitary/Te-pi_0109.jpg,Pituitary,Glioma,0.49030691385269165
+braintumordata/Testing/pituitary/Te-pi_0110.jpg,Pituitary,Pituitary,0.4684203267097473
+braintumordata/Testing/pituitary/Te-pi_0111.jpg,Pituitary,Pituitary,0.8302949070930481
+braintumordata/Testing/pituitary/Te-pi_0112.jpg,Pituitary,Pituitary,0.9658236503601074
+braintumordata/Testing/pituitary/Te-pi_0113.jpg,Pituitary,Glioma,0.4215208888053894
+braintumordata/Testing/pituitary/Te-pi_0114.jpg,Pituitary,No tumor,0.37807467579841614
+braintumordata/Testing/pituitary/Te-pi_0115.jpg,Pituitary,Pituitary,0.7417953014373779
+braintumordata/Testing/pituitary/Te-pi_0116.jpg,Pituitary,Pituitary,0.8558407425880432
+braintumordata/Testing/pituitary/Te-pi_0117.jpg,Pituitary,Pituitary,0.6911360025405884
+braintumordata/Testing/pituitary/Te-pi_0118.jpg,Pituitary,Pituitary,0.9921626448631287
+braintumordata/Testing/pituitary/Te-pi_0119.jpg,Pituitary,Pituitary,0.8433398604393005
+braintumordata/Testing/pituitary/Te-pi_0120.jpg,Pituitary,Pituitary,0.9962158799171448
+braintumordata/Testing/pituitary/Te-pi_0121.jpg,Pituitary,Pituitary,0.9743567109107971
+braintumordata/Testing/pituitary/Te-pi_0122.jpg,Pituitary,Pituitary,0.6836326718330383
+braintumordata/Testing/pituitary/Te-pi_0123.jpg,Pituitary,Pituitary,0.4560050070285797
+braintumordata/Testing/pituitary/Te-pi_0124.jpg,Pituitary,Pituitary,0.9971739053726196
+braintumordata/Testing/pituitary/Te-pi_0125.jpg,Pituitary,Glioma,0.5853170156478882
+braintumordata/Testing/pituitary/Te-pi_0126.jpg,Pituitary,Pituitary,0.9109106659889221
+braintumordata/Testing/pituitary/Te-pi_0127.jpg,Pituitary,Pituitary,0.9936352968215942
+braintumordata/Testing/pituitary/Te-pi_0128.jpg,Pituitary,Pituitary,0.9680905342102051
+braintumordata/Testing/pituitary/Te-pi_0129.jpg,Pituitary,Pituitary,0.976097583770752
+braintumordata/Testing/pituitary/Te-pi_0130.jpg,Pituitary,Pituitary,0.8946874141693115
+braintumordata/Testing/pituitary/Te-pi_0131.jpg,Pituitary,Pituitary,0.9971423745155334
+braintumordata/Testing/pituitary/Te-pi_0132.jpg,Pituitary,Pituitary,0.9940207600593567
+braintumordata/Testing/pituitary/Te-pi_0133.jpg,Pituitary,Pituitary,0.9543224573135376
+braintumordata/Testing/pituitary/Te-pi_0134.jpg,Pituitary,Pituitary,0.8989689946174622
+braintumordata/Testing/pituitary/Te-pi_0135.jpg,Pituitary,Pituitary,0.8866764903068542
+braintumordata/Testing/pituitary/Te-pi_0136.jpg,Pituitary,Pituitary,0.945451021194458
+braintumordata/Testing/pituitary/Te-pi_0137.jpg,Pituitary,No tumor,0.5687705278396606
+braintumordata/Testing/pituitary/Te-pi_0138.jpg,Pituitary,No tumor,0.5703936815261841
+braintumordata/Testing/pituitary/Te-pi_0139.jpg,Pituitary,Pituitary,0.9635800719261169
+braintumordata/Testing/pituitary/Te-pi_0140.jpg,Pituitary,Pituitary,0.9424634575843811
+braintumordata/Testing/pituitary/Te-pi_0141.jpg,Pituitary,Pituitary,0.6984996795654297
+braintumordata/Testing/pituitary/Te-pi_0142.jpg,Pituitary,Pituitary,0.7046104669570923
+braintumordata/Testing/pituitary/Te-pi_0143.jpg,Pituitary,Glioma,0.38926637172698975
+braintumordata/Testing/pituitary/Te-pi_0144.jpg,Pituitary,Pituitary,0.9743946194648743
+braintumordata/Testing/pituitary/Te-pi_0145.jpg,Pituitary,Pituitary,0.8369850516319275
+braintumordata/Testing/pituitary/Te-pi_0146.jpg,Pituitary,Pituitary,0.9095121622085571
+braintumordata/Testing/pituitary/Te-pi_0147.jpg,Pituitary,Pituitary,0.6154096722602844
+braintumordata/Testing/pituitary/Te-pi_0148.jpg,Pituitary,Pituitary,0.9986339211463928
+braintumordata/Testing/pituitary/Te-pi_0149.jpg,Pituitary,Pituitary,0.9879947304725647
+braintumordata/Testing/pituitary/Te-pi_0150.jpg,Pituitary,Pituitary,0.8333614468574524
+braintumordata/Testing/pituitary/Te-pi_0151.jpg,Pituitary,Pituitary,0.9488692879676819
+braintumordata/Testing/pituitary/Te-pi_0152.jpg,Pituitary,No tumor,0.7073997855186462
+braintumordata/Testing/pituitary/Te-pi_0153.jpg,Pituitary,Pituitary,0.8712797164916992
+braintumordata/Testing/pituitary/Te-pi_0154.jpg,Pituitary,No tumor,0.5398092865943909
+braintumordata/Testing/pituitary/Te-pi_0155.jpg,Pituitary,Pituitary,0.7194774746894836
+braintumordata/Testing/pituitary/Te-pi_0156.jpg,Pituitary,Meningioma,0.4802681803703308
+braintumordata/Testing/pituitary/Te-pi_0157.jpg,Pituitary,Pituitary,0.9804171323776245
+braintumordata/Testing/pituitary/Te-pi_0158.jpg,Pituitary,Pituitary,0.8479086756706238
+braintumordata/Testing/pituitary/Te-pi_0159.jpg,Pituitary,Pituitary,0.6998875141143799
+braintumordata/Testing/pituitary/Te-pi_0160.jpg,Pituitary,No tumor,0.4903622269630432
+braintumordata/Testing/pituitary/Te-pi_0161.jpg,Pituitary,Pituitary,0.9205237627029419
+braintumordata/Testing/pituitary/Te-pi_0162.jpg,Pituitary,Pituitary,0.99125075340271
+braintumordata/Testing/pituitary/Te-pi_0163.jpg,Pituitary,Pituitary,0.6410582661628723
+braintumordata/Testing/pituitary/Te-pi_0164.jpg,Pituitary,Meningioma,0.4208659827709198
+braintumordata/Testing/pituitary/Te-pi_0165.jpg,Pituitary,Pituitary,0.5710316300392151
+braintumordata/Testing/pituitary/Te-pi_0166.jpg,Pituitary,Pituitary,0.9962807297706604
+braintumordata/Testing/pituitary/Te-pi_0167.jpg,Pituitary,Pituitary,0.9972921013832092
+braintumordata/Testing/pituitary/Te-pi_0168.jpg,Pituitary,Pituitary,0.9804681539535522
+braintumordata/Testing/pituitary/Te-pi_0169.jpg,Pituitary,Pituitary,0.9713197946548462
+braintumordata/Testing/pituitary/Te-pi_0170.jpg,Pituitary,Pituitary,0.9593359231948853
+braintumordata/Testing/pituitary/Te-pi_0171.jpg,Pituitary,Pituitary,0.8702327609062195
+braintumordata/Testing/pituitary/Te-pi_0172.jpg,Pituitary,Pituitary,0.9997187256813049
+braintumordata/Testing/pituitary/Te-pi_0173.jpg,Pituitary,Pituitary,0.8032545447349548
+braintumordata/Testing/pituitary/Te-pi_0174.jpg,Pituitary,Pituitary,0.9702352285385132
+braintumordata/Testing/pituitary/Te-pi_0175.jpg,Pituitary,Pituitary,0.8066151738166809
+braintumordata/Testing/pituitary/Te-pi_0176.jpg,Pituitary,Pituitary,0.9576370120048523
+braintumordata/Testing/pituitary/Te-pi_0177.jpg,Pituitary,Pituitary,0.7696572542190552
+braintumordata/Testing/pituitary/Te-pi_0178.jpg,Pituitary,Pituitary,0.957360029220581
+braintumordata/Testing/pituitary/Te-pi_0179.jpg,Pituitary,Pituitary,0.7710691690444946
+braintumordata/Testing/pituitary/Te-pi_0180.jpg,Pituitary,Pituitary,0.88103848695755
+braintumordata/Testing/pituitary/Te-pi_0181.jpg,Pituitary,Pituitary,0.9366140961647034
+braintumordata/Testing/pituitary/Te-pi_0182.jpg,Pituitary,Pituitary,0.8876276016235352
+braintumordata/Testing/pituitary/Te-pi_0183.jpg,Pituitary,Pituitary,0.9853394031524658
+braintumordata/Testing/pituitary/Te-pi_0184.jpg,Pituitary,Pituitary,0.9083964824676514
+braintumordata/Testing/pituitary/Te-pi_0185.jpg,Pituitary,Pituitary,0.9206030964851379
+braintumordata/Testing/pituitary/Te-pi_0186.jpg,Pituitary,Pituitary,0.6678053736686707
+braintumordata/Testing/pituitary/Te-pi_0187.jpg,Pituitary,Pituitary,0.6397575736045837
+braintumordata/Testing/pituitary/Te-pi_0188.jpg,Pituitary,Pituitary,0.4700956642627716
+braintumordata/Testing/pituitary/Te-pi_0189.jpg,Pituitary,Pituitary,0.7945578694343567
+braintumordata/Testing/pituitary/Te-pi_0190.jpg,Pituitary,Pituitary,0.9391313791275024
+braintumordata/Testing/pituitary/Te-pi_0191.jpg,Pituitary,Pituitary,0.6243870854377747
+braintumordata/Testing/pituitary/Te-pi_0192.jpg,Pituitary,Pituitary,0.9350822567939758
+braintumordata/Testing/pituitary/Te-pi_0193.jpg,Pituitary,Pituitary,0.8923104405403137
+braintumordata/Testing/pituitary/Te-pi_0194.jpg,Pituitary,No tumor,0.618658185005188
+braintumordata/Testing/pituitary/Te-pi_0195.jpg,Pituitary,Pituitary,0.43876686692237854
+braintumordata/Testing/pituitary/Te-pi_0196.jpg,Pituitary,Pituitary,0.8011952638626099
+braintumordata/Testing/pituitary/Te-pi_0197.jpg,Pituitary,Glioma,0.4342242479324341
+braintumordata/Testing/pituitary/Te-pi_0198.jpg,Pituitary,Pituitary,0.7039164900779724
+braintumordata/Testing/pituitary/Te-pi_0199.jpg,Pituitary,Pituitary,0.969277560710907
+braintumordata/Testing/pituitary/Te-pi_0200.jpg,Pituitary,Glioma,0.9777379035949707
+braintumordata/Testing/pituitary/Te-pi_0201.jpg,Pituitary,Pituitary,0.9912569522857666
+braintumordata/Testing/pituitary/Te-pi_0202.jpg,Pituitary,Pituitary,0.9661223888397217
+braintumordata/Testing/pituitary/Te-pi_0203.jpg,Pituitary,Pituitary,0.925571084022522
+braintumordata/Testing/pituitary/Te-pi_0204.jpg,Pituitary,Pituitary,0.955245852470398
+braintumordata/Testing/pituitary/Te-pi_0205.jpg,Pituitary,Pituitary,0.6376634836196899
+braintumordata/Testing/pituitary/Te-pi_0206.jpg,Pituitary,No tumor,0.6523268818855286
+braintumordata/Testing/pituitary/Te-pi_0207.jpg,Pituitary,Pituitary,0.7853882908821106
+braintumordata/Testing/pituitary/Te-pi_0208.jpg,Pituitary,Pituitary,0.8350464701652527
+braintumordata/Testing/pituitary/Te-pi_0209.jpg,Pituitary,Pituitary,0.9700865149497986
+braintumordata/Testing/pituitary/Te-pi_0210.jpg,Pituitary,Pituitary,0.9359527826309204
+braintumordata/Testing/pituitary/Te-pi_0211.jpg,Pituitary,Pituitary,0.9715969562530518
+braintumordata/Testing/pituitary/Te-pi_0212.jpg,Pituitary,Pituitary,0.9566448330879211
+braintumordata/Testing/pituitary/Te-pi_0213.jpg,Pituitary,Pituitary,0.9633546471595764
+braintumordata/Testing/pituitary/Te-pi_0214.jpg,Pituitary,Pituitary,0.9862493276596069
+braintumordata/Testing/pituitary/Te-pi_0215.jpg,Pituitary,Meningioma,0.49849945306777954
+braintumordata/Testing/pituitary/Te-pi_0216.jpg,Pituitary,Pituitary,0.9415566921234131
+braintumordata/Testing/pituitary/Te-pi_0217.jpg,Pituitary,Pituitary,0.911134660243988
+braintumordata/Testing/pituitary/Te-pi_0218.jpg,Pituitary,Pituitary,0.9900755286216736
+braintumordata/Testing/pituitary/Te-pi_0219.jpg,Pituitary,Pituitary,0.9926101565361023
+braintumordata/Testing/pituitary/Te-pi_0220.jpg,Pituitary,Pituitary,0.995273768901825
+braintumordata/Testing/pituitary/Te-pi_0221.jpg,Pituitary,Pituitary,0.9908974766731262
+braintumordata/Testing/pituitary/Te-pi_0222.jpg,Pituitary,Pituitary,0.9950767159461975
+braintumordata/Testing/pituitary/Te-pi_0223.jpg,Pituitary,Pituitary,0.9869864583015442
+braintumordata/Testing/pituitary/Te-pi_0224.jpg,Pituitary,Pituitary,0.9616908431053162
+braintumordata/Testing/pituitary/Te-pi_0225.jpg,Pituitary,Pituitary,0.9620156288146973
+braintumordata/Testing/pituitary/Te-pi_0226.jpg,Pituitary,Pituitary,0.9479279518127441
+braintumordata/Testing/pituitary/Te-pi_0227.jpg,Pituitary,Pituitary,0.831271231174469
+braintumordata/Testing/pituitary/Te-pi_0228.jpg,Pituitary,Pituitary,0.9843511581420898
+braintumordata/Testing/pituitary/Te-pi_0229.jpg,Pituitary,Pituitary,0.9892011880874634
+braintumordata/Testing/pituitary/Te-pi_0230.jpg,Pituitary,Pituitary,0.9803565144538879
+braintumordata/Testing/pituitary/Te-pi_0231.jpg,Pituitary,Pituitary,0.9874151349067688
+braintumordata/Testing/pituitary/Te-pi_0232.jpg,Pituitary,Pituitary,0.9918413162231445
+braintumordata/Testing/pituitary/Te-pi_0233.jpg,Pituitary,Pituitary,0.9652251601219177
+braintumordata/Testing/pituitary/Te-pi_0234.jpg,Pituitary,No tumor,0.6871910095214844
+braintumordata/Testing/pituitary/Te-pi_0235.jpg,Pituitary,Pituitary,0.6392167806625366
+braintumordata/Testing/pituitary/Te-pi_0236.jpg,Pituitary,Pituitary,0.531194806098938
+braintumordata/Testing/pituitary/Te-pi_0237.jpg,Pituitary,Pituitary,0.639533519744873
+braintumordata/Testing/pituitary/Te-pi_0238.jpg,Pituitary,Meningioma,0.5186653137207031
+braintumordata/Testing/pituitary/Te-pi_0239.jpg,Pituitary,Pituitary,0.9384306073188782
+braintumordata/Testing/pituitary/Te-pi_0240.jpg,Pituitary,Pituitary,0.9279553890228271
+braintumordata/Testing/pituitary/Te-pi_0241.jpg,Pituitary,Pituitary,0.9610459804534912
+braintumordata/Testing/pituitary/Te-pi_0242.jpg,Pituitary,Pituitary,0.9839943647384644
+braintumordata/Testing/pituitary/Te-pi_0243.jpg,Pituitary,Pituitary,0.9603943824768066
+braintumordata/Testing/pituitary/Te-pi_0244.jpg,Pituitary,Pituitary,0.845241129398346
+braintumordata/Testing/pituitary/Te-pi_0245.jpg,Pituitary,Pituitary,0.8957172632217407
+braintumordata/Testing/pituitary/Te-pi_0246.jpg,Pituitary,Meningioma,0.5241350531578064
+braintumordata/Testing/pituitary/Te-pi_0247.jpg,Pituitary,Pituitary,0.8130954504013062
+braintumordata/Testing/pituitary/Te-pi_0248.jpg,Pituitary,Pituitary,0.9116430878639221
+braintumordata/Testing/pituitary/Te-pi_0249.jpg,Pituitary,Pituitary,0.9568518400192261
+braintumordata/Testing/pituitary/Te-pi_0250.jpg,Pituitary,Glioma,0.6732031106948853
+braintumordata/Testing/pituitary/Te-pi_0251.jpg,Pituitary,Pituitary,0.6280262470245361
+braintumordata/Testing/pituitary/Te-pi_0252.jpg,Pituitary,Pituitary,0.9748786091804504
+braintumordata/Testing/pituitary/Te-pi_0253.jpg,Pituitary,Pituitary,0.5441202521324158
+braintumordata/Testing/pituitary/Te-pi_0254.jpg,Pituitary,Pituitary,0.9020124077796936
+braintumordata/Testing/pituitary/Te-pi_0255.jpg,Pituitary,Glioma,0.590947687625885
+braintumordata/Testing/pituitary/Te-pi_0256.jpg,Pituitary,Pituitary,0.6976735591888428
+braintumordata/Testing/pituitary/Te-pi_0257.jpg,Pituitary,Pituitary,0.7637925148010254
+braintumordata/Testing/pituitary/Te-pi_0258.jpg,Pituitary,Pituitary,0.8377350568771362
+braintumordata/Testing/pituitary/Te-pi_0259.jpg,Pituitary,Pituitary,0.9573224782943726
+braintumordata/Testing/pituitary/Te-pi_0260.jpg,Pituitary,Pituitary,0.5655967593193054
+braintumordata/Testing/pituitary/Te-pi_0261.jpg,Pituitary,Pituitary,0.7023494243621826
+braintumordata/Testing/pituitary/Te-pi_0262.jpg,Pituitary,Pituitary,0.6787773966789246
+braintumordata/Testing/pituitary/Te-pi_0263.jpg,Pituitary,Pituitary,0.6194490194320679
+braintumordata/Testing/pituitary/Te-pi_0264.jpg,Pituitary,Pituitary,0.9789559841156006
+braintumordata/Testing/pituitary/Te-pi_0265.jpg,Pituitary,Pituitary,0.7393035888671875
+braintumordata/Testing/pituitary/Te-pi_0266.jpg,Pituitary,Pituitary,0.7154168486595154
+braintumordata/Testing/pituitary/Te-pi_0267.jpg,Pituitary,Pituitary,0.6281459331512451
+braintumordata/Testing/pituitary/Te-pi_0268.jpg,Pituitary,Pituitary,0.4740300178527832
+braintumordata/Testing/pituitary/Te-pi_0269.jpg,Pituitary,Meningioma,0.41610002517700195
+braintumordata/Testing/pituitary/Te-pi_0270.jpg,Pituitary,Pituitary,0.8638440370559692
+braintumordata/Testing/pituitary/Te-pi_0271.jpg,Pituitary,Pituitary,0.5501419305801392
+braintumordata/Testing/pituitary/Te-pi_0272.jpg,Pituitary,Pituitary,0.8268944621086121
+braintumordata/Testing/pituitary/Te-pi_0273.jpg,Pituitary,Pituitary,0.7863092422485352
+braintumordata/Testing/pituitary/Te-pi_0274.jpg,Pituitary,Pituitary,0.6492511630058289
+braintumordata/Testing/pituitary/Te-pi_0275.jpg,Pituitary,Pituitary,0.719385027885437
+braintumordata/Testing/pituitary/Te-pi_0276.jpg,Pituitary,Pituitary,0.5084292888641357
+braintumordata/Testing/pituitary/Te-pi_0277.jpg,Pituitary,Pituitary,0.9672347903251648
+braintumordata/Testing/pituitary/Te-pi_0278.jpg,Pituitary,Pituitary,0.9573954343795776
+braintumordata/Testing/pituitary/Te-pi_0279.jpg,Pituitary,Pituitary,0.7159466743469238
+braintumordata/Testing/pituitary/Te-pi_0280.jpg,Pituitary,Meningioma,0.5539419651031494
+braintumordata/Testing/pituitary/Te-pi_0281.jpg,Pituitary,Pituitary,0.49079442024230957
+braintumordata/Testing/pituitary/Te-pi_0282.jpg,Pituitary,Pituitary,0.5291900038719177
+braintumordata/Testing/pituitary/Te-pi_0283.jpg,Pituitary,Pituitary,0.990278422832489
+braintumordata/Testing/pituitary/Te-pi_0284.jpg,Pituitary,Pituitary,0.7619732022285461
+braintumordata/Testing/pituitary/Te-pi_0285.jpg,Pituitary,No tumor,0.444923460483551
+braintumordata/Testing/pituitary/Te-pi_0286.jpg,Pituitary,Pituitary,0.7623364925384521
+braintumordata/Testing/pituitary/Te-pi_0287.jpg,Pituitary,Pituitary,0.8530644178390503
+braintumordata/Testing/pituitary/Te-pi_0288.jpg,Pituitary,Pituitary,0.8117945790290833
+braintumordata/Testing/pituitary/Te-pi_0289.jpg,Pituitary,Pituitary,0.9434327483177185
+braintumordata/Testing/pituitary/Te-pi_0290.jpg,Pituitary,Pituitary,0.8914962410926819
+braintumordata/Testing/pituitary/Te-pi_0291.jpg,Pituitary,Meningioma,0.38555389642715454
+braintumordata/Testing/pituitary/Te-pi_0292.jpg,Pituitary,Pituitary,0.49768659472465515
+braintumordata/Testing/pituitary/Te-pi_0293.jpg,Pituitary,Pituitary,0.5495433211326599
+braintumordata/Testing/pituitary/Te-pi_0294.jpg,Pituitary,Pituitary,0.556900680065155
+braintumordata/Testing/pituitary/Te-pi_0295.jpg,Pituitary,Pituitary,0.9877939224243164
+braintumordata/Testing/pituitary/Te-pi_0296.jpg,Pituitary,Meningioma,0.4070529043674469
+braintumordata/Testing/pituitary/Te-pi_0297.jpg,Pituitary,Pituitary,0.9305146336555481
+braintumordata/Testing/pituitary/Te-pi_0298.jpg,Pituitary,Meningioma,0.35471680760383606
+braintumordata/Testing/pituitary/Te-pi_0299.jpg,Pituitary,Pituitary,0.9015728831291199

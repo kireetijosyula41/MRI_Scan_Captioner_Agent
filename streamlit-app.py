@@ -5,7 +5,12 @@ import numpy as np
 import pandas as pd
 from matplotlib import colormaps
 import openai
-from torch_classifier import grad_cam_heatmap, load_classifier, predict_probabilities
+from torch_classifier import (
+    grad_cam_heatmap,
+    load_classifier,
+    predict_probabilities,
+    preprocess_image,
+)
 
 
 @st.cache_resource
@@ -19,12 +24,7 @@ api_key = st.secrets["OPENAI_API_KEY"]
 
 # Loading of the image for the streamlit app
 def load_image(image_file):
-    img = Image.open(image_file).convert('RGB')
-    img = img.resize((150, 150))
-    img_array = np.array(img)
-    img_array = img_array / 255.0
-    img_array = np.expand_dims(img_array, axis=0)
-    return img_array
+    return preprocess_image(image_file)
 
 # Return the softmax distribution and its predicted class details
 def predict_image(image_array):

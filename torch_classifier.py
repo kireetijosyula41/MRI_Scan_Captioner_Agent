@@ -1,7 +1,9 @@
 """PyTorch implementation of the CNN stored in the legacy Keras HDF5 file."""
 
 import h5py
+import numpy as np
 import torch
+from PIL import Image
 from torch import nn
 from torch.nn import functional as F
 
@@ -72,10 +74,22 @@ def image_tensor(image_array):
     return torch.from_numpy(image_array).permute(0, 3, 1, 2).float()
 
 
-def predict_probabilities(model, image_array):
+def preprocess_image(image_file):
+    """Apply the same RGB, 150x150, and 1/255 preprocessing as the app."""
+    image = Image.open(image_file).convert("RGB")
+    image = image.resize((150, 150))
+    image_array = np.array(image) / 255.0
+    return np.expand_dims(image_array, axis=0)
+
+
+def predict_probabilities_batch(model, image_array):
     with torch.inference_mode():
         logits = model(image_tensor(image_array))
-        return torch.softmax(logits, dim=1)[0].cpu().numpy()
+        return torch.softmax(logits, dim=1).cpu().numpy()
+
+
+def predict_probabilities(model, image_array):
+    return predict_probabilities_batch(model, image_array)[0]
 
 
 def grad_cam_heatmap(model, image_array, class_index, output_size):

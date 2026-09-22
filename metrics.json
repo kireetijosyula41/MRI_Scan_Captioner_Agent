@@ -1,0 +1,66 @@
+{
+  "total_images": 1311,
+  "labels": [
+    "Glioma",
+    "Meningioma",
+    "No tumor",
+    "Pituitary"
+  ],
+  "accuracy": 0.7429443173150267,
+  "macro_f1": 0.7173091162306071,
+  "weighted_f1": 0.7272762265254609,
+  "per_class": {
+    "Glioma": {
+      "precision": 0.8198198198198198,
+      "recall": 0.6066666666666667,
+      "f1": 0.6973180076628354,
+      "support": 300
+    },
+    "Meningioma": {
+      "precision": 0.5900900900900901,
+      "recall": 0.42810457516339867,
+      "f1": 0.4962121212121212,
+      "support": 306
+    },
+    "No tumor": {
+      "precision": 0.7542533081285444,
+      "recall": 0.9851851851851852,
+      "f1": 0.854389721627409,
+      "support": 405
+    },
+    "Pituitary": {
+      "precision": 0.7751479289940828,
+      "recall": 0.8733333333333333,
+      "f1": 0.8213166144200627,
+      "support": 300
+    }
+  },
+  "confusion_matrix": [
+    [
+      182,
+      76,
+      3,
+      39
+    ],
+    [
+      26,
+      131,
+      115,
+      34
+    ],
+    [
+      2,
+      1,
+      399,
+      3
+    ],
+    [
+      12,
+      14,
+      12,
+      262
+    ]
+  ],
+  "model_path": "brain_tumor.h5",
+  "test_directory": "braintumordata/Testing"
+}

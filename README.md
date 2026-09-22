@@ -20,6 +20,10 @@ The training dataset is available at https://www.kaggle.com/datasets/masoudnickp
 
 The PyTorch weight mapping and Grad-CAM can be checked with `python3 -m unittest discover -s tests -v`.
 
+**Evaluation**
+
+Run `python3 evaluation.py` to evaluate the saved model on `braintumordata/Testing`. The script uses the app's preprocessing and PyTorch classifier, then writes `metrics.json`, `confusion_matrix.png`, and `predictions.csv` in the project directory. Use `--testing-dir`, `--model`, `--output-dir`, or `--batch-size` to change the defaults.
+
 **Streamlit App Running**
 
 Before running the streamlit app, run the command
