@@ -1,4 +1,5 @@
 import os
+import json
 import streamlit as st
 import tensorflow as tf
 from tensorflow.keras.models import load_model
@@ -43,13 +44,33 @@ def get_confidence_tier(confidence):
 
 client = openai.OpenAI(api_key=api_key)
 
-# Image caption function using gpt-4o-mini
-def generate_caption(predicted_label, confidence_tier):
+# Generate a report from the classifier output, without inferring image findings
+def generate_report(prediction):
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": f"Predicted class: {predicted_label}. Confidence tier: {confidence_tier}. Write a one sentence description for this MRI scan showing the predicted class. Indicate the type of tumor if present, the location in the brain where the tumor is, and the view of the brain the user is looking at."}
+            {
+                "role": "system",
+                "content": (
+                    "Write an informational report using only the supplied classifier "
+                    "prediction data. Do not invent image findings. Do not assert or "
+                    "imply tumor location, size, imaging view, clinical diagnosis, "
+                    "prognosis, or treatment unless directly supported by the supplied "
+                    "data. A predicted class and its probabilities do not establish "
+                    "those facts. Clearly distinguish the model prediction from a "
+                    "clinical diagnosis. Output exactly these five Markdown sections "
+                    "in order: ## Model prediction, ## Confidence, "
+                    "## Interpretation, ## Limitations, ## Safety note. "
+                    "Report the supplied label, confidence, confidence tier, and "
+                    "limitations accurately. In the safety note, state that the "
+                    "report is not a medical diagnosis and should be reviewed by "
+                    "a qualified clinician."
+                ),
+            },
+            {
+                "role": "user",
+                "content": f"Classifier prediction data:\n{json.dumps(prediction, indent=2)}",
+            },
         ]
     )
     return response.choices[0].message.content
@@ -73,5 +94,16 @@ if uploaded_file is not None:
             class_probabilities, orient="index", columns=["Probability"]
         )
     )
-    caption = generate_caption(predicted_label, confidence_tier)
-    st.write(f"AI Generated Caption from OPENAI: {caption}")
+    prediction = {
+        "predicted_label": predicted_label,
+        "confidence": confidence,
+        "confidence_tier": confidence_tier,
+        "probabilities": class_probabilities,
+        "limitations": (
+            "The classifier provides class probabilities only. It does not establish "
+            "a clinical diagnosis or determine tumor location, size, imaging view, "
+            "prognosis, or treatment."
+        ),
+    }
+    report = generate_report(prediction)
+    st.markdown(report)
