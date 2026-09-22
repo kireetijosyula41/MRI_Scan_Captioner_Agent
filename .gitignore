@@ -1,0 +1,5 @@
+# Ignore all files starting with a .
+.*
+!.gitignore
+brain_tumor.h5
+*.mp4
