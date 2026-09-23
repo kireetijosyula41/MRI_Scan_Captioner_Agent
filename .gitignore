@@ -3,3 +3,4 @@
 !.gitignore
 brain_tumor.h5
 *.mp4
+__pycache__
